@@ -14,7 +14,7 @@
 [1A]: # "..."
 [1B]: # "..."
 [1C]: # "..."
-[1D]: # "How the Internet Works"
+[1D]: https://github.com/sf-wdi-31/how-the-internet-works "How the Internet Works"
 [1E]: # "Command Line Mystery"
 
 [2A]: # "..."
