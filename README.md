@@ -8,7 +8,7 @@
  **10:45am Module 2** | Icebreakers (Team) | HTML & the DOM (BV) | Control Flow (BV) | DOM Manipulation (CF) | Formative Assessment & Review (IT) 
  **1:30pm Module 3** | Icebreakers (Team) |  Github Workflow (CF) | Functions (CF) | DOM Events (BV) | Intro Tic Tac Toe (Team)
 **3:00pm Module 4** | [How the Internet Works (IT)][1D] | Training: My Personal Site (CF) | Training: Functions (CF) | Training: DOM Events (BV) | Training: Tic-Tac-Toe (Team)       
-**Training** | [Training: Command Line Mystery (IT)][1E] | Continue Training | Continue Training  | Continue Training |  Continue Training
+**Training** | [Training: Command Line Mystery (IT)][1E] | Training | Training  | Training | Training
 
 
 [1A]: # "..."
