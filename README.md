@@ -8,7 +8,7 @@
  **10:45am <br> 12:15pm** | Icebreakers (Team) | HTML & the DOM (BV) | Control Flow (BV) | DOM Manipulation (CF) | Formative Assessment & Review (IT)
  **1:15pm <br> 2:45pm** | Icebreakers (Team) |  [Github Workflow (CF)](https://github.com/sf-wdi-31/git-github) | Functions (CF) | DOM Events (BV) | Intro Tic Tac Toe (Team)
 **3:00pm <br> 4:30pm** | [How the Internet Works (IT)][1D] | [Training: My Personal Site (CF)](https://github.com/sf-wdi-31/personal-portfolio) | Training: Functions (CF) | Training: DOM Events (BV) | Training: Tic-Tac-Toe (Team)       
-**Training** | [Command Line Mystery (IT)][1E] | Training | Training  | Training | Training
+**Evening** | [Command Line Mystery (IT)][1E] | Training | Training  | Training | Training
 
 
 [1A]: # "..."
