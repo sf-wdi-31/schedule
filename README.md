@@ -15,7 +15,7 @@
 [1B]: # "..."
 [1C]: # "..."
 [1D]: https://github.com/sf-wdi-31/how-the-internet-works "How the Internet Works"
-[1E]: # "Command Line Mystery"
+[1E]: https://github.com/sf-wdi-31/clmystery "Command Line Mystery"
 
 [2A]: # "..."
 [2B]: # "..."
