@@ -36,3 +36,5 @@
 [5B]: # "..."
 [5C]: # "..."
 [5D]: # "..."
+
+[Weekly Checklist](https://gist.github.com/iliastsangaris/06075d30e594630c95ee2b46ea35ec13)
