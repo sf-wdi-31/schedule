@@ -1,5 +1,45 @@
 #WDI 31 Schedule
 
+#### Week 2 - JavaScript & The DOM
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Iterators & Callbacks][1A] |  Outcomes (Neda) | [Templating w/ Handlebars][3A] | [OO JS][4A] | Formative Assessment & Review
+ **10:45am <br> 12:15pm** | [Training: Iterators & Callbacks][1B] | [HTML Forms][2B] | [Training: Templating][3B] | [OO JS][4B] | Project 0 Intro
+ **1:15pm <br> 2:45pm** | [Objects][1C] |  [AJAX][2C] | [Training: GeoQuakes][3C] | [Training: OO JS][4C] | Project 0
+**3:00pm <br> 4:30pm** | [Training: Objects][1D] | [Training: 3rd Party APIs][2D] | [Training: GeoQuakes][3D] | [Training: OO JS][4D] | Project 0     
+**Evening** | Training | Training | Training  | Training | Training
+
+
+[1A]: # "..."
+[1B]: # "..."
+[1C]: # "..."
+[1D]: # "..."
+[1E]: # "..."
+
+[2A]: # "..."
+[2B]: # "..."
+[2C]: # "..."
+[2D]: # "..."
+
+[3A]: # "..."
+[3B]: # "..."
+[3C]: # "..."
+[3D]: # "..."
+
+[4A]: # "..."
+[4B]: # "..."
+[4C]: # "..."
+[4D]: # "..."
+
+[5A]: # "..."
+[5B]: # "..."
+[5C]: # "..."
+[5D]: # "..."
+
+[Weekly Checklist](#)
+
+
 #### Week 1 - Fundamentals and Tools
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
