@@ -6,7 +6,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | Orientation (MJ) |  Outcomes (Neda) | [JS Data Types (BV)](https://github.com/sf-wdi-31/js-data-types) | [Chrome Dev Tools & Debugging (CF)](https://github.com/sf-wdi-31/dev-tools) | Personal Projects Show & Tell
  **10:45am <br> 12:15pm** | Icebreakers (Team) | [HTML & CSS Review (BV)](https://github.com/sf-wdi-31/html-css-review) | [JS Control Flow (BV)](https://github.com/sf-wdi-31/js-control-flow) | [DOM Manipulation (CF)](https://github.com/sf-wdi-31/dom-manipulation) | Formative Assessment & Review (IT)
- **1:15pm <br> 2:45pm** | Icebreakers (Team) |  [Github Workflow (CF)](https://github.com/sf-wdi-31/git-github) | [Functions (CF)](https://github.com/sf-wdi-31/js-functions) | DOM Events (BV) | Intro Tic Tac Toe (Team)
+ **1:15pm <br> 2:45pm** | Icebreakers (Team) |  [Github Workflow (CF)](https://github.com/sf-wdi-31/git-github) | [Functions (CF)](https://github.com/sf-wdi-31/js-functions) | [DOM Events (BV)](https://github.com/sf-wdi-31/dom-events-jquery) | Intro Tic Tac Toe (Team)
 **3:00pm <br> 4:30pm** | [How the Internet Works (IT)][1D] | [Training: My Personal Site (CF)](https://github.com/sf-wdi-31/personal-portfolio) | [Training: Functions (CF)](https://github.com/sf-wdi-31/functions-trainingg) | Training: DOM Events (BV) | Training: Tic-Tac-Toe (Team)       
 **Evening** | [Command Line Mystery (IT)][1E] | Training | Training  | Training | Training
 
