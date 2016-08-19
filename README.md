@@ -4,10 +4,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Iterators & Callbacks][1A] |  Outcomes (Neda) | [Templating w/ Handlebars][3A] | [OO JS][4A] | Formative Assessment & Review
- **10:45am <br> 12:15pm** | [Training: Iterators & Callbacks][1B] | [HTML Forms][2B] | [Training: Templating][3B] | [OO JS][4B] | Project 0 Intro
- **1:15pm <br> 2:45pm** | [Objects][1C] |  [AJAX][2C] | [Training: GeoQuakes][3C] | [Training: OO JS][4C] | Project 0
-**3:00pm <br> 4:30pm** | [Training: Objects][1D] | [Training: 3rd Party APIs][2D] | [Training: GeoQuakes][3D] | [Training: OO JS][4D] | Project 0     
+ **9:00am <br> 10:30am** | [Iterators & Callbacks (BV) ][1A] |  Outcomes (Neda) | [Templating w/ Handlebars (BV)][3A] | [OO JS (BV & IT)][4A] | Formative Assessment & Review
+ **10:45am <br> 12:15pm** | [Training: Iterators & Callbacks (BV) ][1B] | [HTML Forms (IT)][2B] | [Training: Templating (BV)][3B] | [OO JS (BV & IT)][4B] | Project 0 Intro (BV) 
+ **1:15pm <br> 2:45pm** | [Objects (CF)][1C] |  [AJAX (CF)][2C] | [Training: GeoQuakes (CF) ][3C] | [Training: OO JS (IT & BV)][4C] | Project 0
+**3:00pm <br> 4:30pm** | [Training: Objects (CF)][1D] | [Training: 3rd Party APIs (CF)][2D] | [Training: GeoQuakes][3D] | [Training: OO JS (IT & BV) ][4D] | Project 0     
 **Evening** | Training | Training | Training  | Training | Training
 
 
