@@ -36,6 +36,8 @@
 [2-5C]: # "..."
 [2-5D]: # "..."
 
+[Weekly Checklist](https://gist.github.com/iliastsangaris/96666fca012b5ada111c9a5c8b7c3f64)
+
 #### Week 1 - Fundamentals and Tools
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
