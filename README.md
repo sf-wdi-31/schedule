@@ -10,8 +10,8 @@
 **3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (CF)][2-2D] | [Training: GeoQuakes (CF)][2-3D] | [Training: OO JS (IT & BV) ][2-4D] | Project 0     
 **Evening** | Training | Training | Training  | Training | Training
 
-[2-1A]: # https://github.com/sf-wdi-31/iterator-methods
-[2-1B]: # https://github.com/sf-wdi-31/building-js-iterators-lab/
+[2-1A]: https://github.com/sf-wdi-31/iterator-methods "..."
+[2-1B]: https://github.com/sf-wdi-31/building-js-iterators-lab/ "..."
 [2-1C]: # "..."
 [2-1D]: # "..."
 [2-1E]: # "..."
