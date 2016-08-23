@@ -18,8 +18,8 @@
 
 [2-2A]: # "..."
 [2-2B]: https://github.com/sf-wdi-31/html-forms "..."
-[2-2C]: # "..."
-[2-2D]: # "..."
+[2-2C]: https://github.com/sf-wdi-31/ajax "AJAX"
+[2-2D]: https://github.com/sf-wdi-31/giffaw "Giphy lab"
 
 [2-3A]: # "..."
 [2-3B]: # "..."
