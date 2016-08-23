@@ -26,8 +26,8 @@
 [2-3C]: # "..."
 [2-3D]: # "..."
 
-[2-4A]: # "..."
-[2-4B]: # "..."
+[2-4A]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
+[2-4B]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
 [2-4C]: # "..."
 [2-4D]: # "..."
 
