@@ -22,7 +22,7 @@
 [2-2D]: https://github.com/sf-wdi-31/giffaw "Giphy lab"
 
 [2-3A]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
-[2-3B]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
+[2-3B]: https://github.com/sf-wdi-31/handlebars-spotify "..."
 [2-3C]: # "..."
 [2-3D]: # "..."
 
