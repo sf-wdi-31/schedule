@@ -1,5 +1,47 @@
 #WDI 31 Schedule
 
+#### Week 3 - Server-side JavaScript
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | Science Fair | Outcomes (Neda) | [Mongo/Mongoose Intro (CF)][2-3A] | [Sass (IT)][2-4A] | Formative Assessment (IT)
+ **10:45am <br> 12:15pm** | [Intro Express (CF)][2-1B] | [Training: ToDo App(CF)][2-2B] | [Training: Book App (CF)][2-3B] | [Agile Development (IT)][2-4B] | Review (IT)
+ **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][2-1C] |  [Training: ToDo App][2-2C] | [Mongoose Relationships (BV)][2-3C] | [Personal API & Heroku (CF)][2-4C] | Personal API
+**3:00pm <br> 4:30pm** | [Training: Express Params & Routes][2-1D] | [Training: ToDo App][2-2D] | [Training: Mongoose Relationships (BV)][2-3D] | [Personal API & Heroku][2-4D] | Personal API   
+**Evening** | Training & [REST Primer][2-1E] | Training & [Database Primer][2-2E] | Training & [CRUD/Query Primer][2-3E] | Personal API | Personal API
+
+[2-1A]: # "..."
+[2-1B]: # "..."
+[2-1C]: # "..."
+[2-1D]: # "..."
+[2-1E]: # "..."
+
+[2-2A]: # "..."
+[2-2B]: # "..."
+[2-2C]: # "..."
+[2-2D]: # "..."
+[2-2E]: # "..."
+
+[2-3A]: # "..."
+[2-3B]: # "..."
+[2-3C]: # "..."
+[2-3D]: # "..."
+[2-3E]: # "..."
+
+[2-4A]: # "..."
+[2-4B]: # "..."
+[2-4C]: # "..."
+[2-4D]: # "..."
+[2-4E]: # "..."
+
+[2-5A]: # "..."
+[2-5B]: # "..."
+[2-5C]: # "..."
+[2-5D]: # "..."
+[2-5E]: # "..."
+
+[Weekly Checklist](#)
+
 #### Week 2 - JavaScript & The DOM
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
