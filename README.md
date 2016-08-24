@@ -21,7 +21,7 @@
 [2-2C]: https://github.com/sf-wdi-31/ajax "AJAX"
 [2-2D]: https://github.com/sf-wdi-31/giffaw "Giphy lab"
 
-[2-3A]: # "..."
+[2-3A]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
 [2-3B]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
 [2-3C]: # "..."
 [2-3D]: # "..."
