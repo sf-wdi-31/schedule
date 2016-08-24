@@ -23,7 +23,7 @@
 
 [2-3A]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
 [2-3B]: https://github.com/sf-wdi-31/handlebars-spotify "..."
-[2-3C]: # "..."
+[2-3C]: https://github.com/sf-wdi-31/geoquakes "Geoquakes"
 [2-3D]: # "..."
 
 [2-4A]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
