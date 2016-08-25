@@ -28,8 +28,8 @@
 
 [2-4A]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
 [2-4B]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
-[2-4C]: # "..."
-[2-4D]: # "..."
+[2-4C]: https://github.com/sf-wdi-31/oop-game-training "..."
+[2-4D]: https://github.com/sf-wdi-31/oop-game-training "..."
 
 [2-5A]: # "..."
 [2-5B]: # "..."
