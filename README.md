@@ -38,6 +38,8 @@
 
 [Weekly Checklist](https://gist.github.com/iliastsangaris/96666fca012b5ada111c9a5c8b7c3f64)
 
+[Review Power Hour](https://github.com/sf-wdi-31/Matt-s-Power-Hour) || [Whiteboarding](https://github.com/sf-wdi-31/week-2-review-questions)
+
 #### Week 1 - Fundamentals and Tools
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
