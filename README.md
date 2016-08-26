@@ -78,4 +78,4 @@
 [1-5C]: https://github.com/sf-wdi-31/bootstrap "Bootstrap"
 [1-5D]: https://github.com/sf-wdi-31/tic-tac-toe "Tic Tac Toe"
 
-[Weekly Checklist](https://gist.github.com/iliastsangaris/06075d30e594630c95ee2b46ea35ec13)
+[Weekly Checklist](https://gist.github.com/iliastsangaris/06075d30e594630c95ee2b46ea35ec13) 
