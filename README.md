@@ -12,9 +12,9 @@
 
 [3-1A]: # "..."
 [3-1B]: https://github.com/sf-wdi-31/express "Express and Node"
-[3-1C]: # "..."
-[3-1D]: # "..."
-[3-1E]: https://github.com/sf-wdi-27-28/restful-api-exercises "..."
+[3-1C]: https://github.com/sf-wdi-31/express-dynamic-routes "..."
+[3-1D]: https://github.com/sf-wdi-31/express-routes-training "..."
+[3-1E]: https://github.com/sf-wdi-31/express-routes-training "..."
 [3-1F]: http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/ "..."
 [3-1G]: http://rest.elkstein.org/ "..."
 
