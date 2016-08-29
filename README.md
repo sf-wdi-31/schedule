@@ -42,7 +42,7 @@
 [3-5D]: # "..."
 [3-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/iliastsangaris/740153e92e57d681fd440ef64c181d2d)
 
 #### Week 2 - JavaScript & The DOM
 
