@@ -11,7 +11,7 @@
 **Evening** | Training & [REST Primer][3-1E] | Training & [Database Primer][3-2E] | Training & [CRUD/Query Primer][3-3E] | Personal API | Personal API
 
 [3-1A]: # "..."
-[3-1B]: # "..."
+[3-1B]: https://github.com/sf-wdi-31/express "Express and Node"
 [3-1C]: # "..."
 [3-1D]: # "..."
 [3-1E]: # "..."
@@ -120,4 +120,4 @@
 [1-5C]: https://github.com/sf-wdi-31/bootstrap "Bootstrap"
 [1-5D]: https://github.com/sf-wdi-31/tic-tac-toe "Tic Tac Toe"
 
-[Weekly Checklist](https://gist.github.com/iliastsangaris/06075d30e594630c95ee2b46ea35ec13) 
+[Weekly Checklist](https://gist.github.com/iliastsangaris/06075d30e594630c95ee2b46ea35ec13)
