@@ -19,9 +19,9 @@
 [3-1G]: http://rest.elkstein.org/ "..."
 
 [3-2A]: # "..."
-[3-2B]: # "..."
-[3-2C]: # "..."
-[3-2D]: # "..."
+[3-2B]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
+[3-2C]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
+[3-2D]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
 [3-2E]: # "..."
 
 [3-3A]: # "..."
