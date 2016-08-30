@@ -22,7 +22,7 @@
 [3-2B]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
 [3-2C]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
 [3-2D]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
-[3-2E]: # "..."
+[3-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#tuesday "..."
 
 [3-3A]: # "..."
 [3-3B]: # "..."
