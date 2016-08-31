@@ -1,21 +1,21 @@
-# Week 3 Training 
+# Week 3 Training
 
-The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials. 
+The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
 ## Tuesday
 
 1. Looking forward: Read over [mongoose's getting started guide](http://mongoosejs.com/docs/).
   * Also read the first few sections of Mongoose's [overall guide](http://mongoosejs.com/docs/guide.html), up through the section on creating a model. Write out a brief summary of what a mongoose _schema_ is, what a mongoose _model_ is, and how they're different. **Bring this in tomorrow.**  
-  * Examine the basic syntax mongoose uses to make a new document, save the document, and find documents later.  You don't have to memorize the methods now, but look over them. 
+  * Examine the basic syntax mongoose uses to make a new document, save the document, and find documents later.  You don't have to memorize the methods now, but look over them.
 
-2. Please use any extra time to review today's To Do training. We are not requiring you to add it to your site, but feel free! 
+2. Please use any extra time to review today's To Do training. We are not requiring you to add it to your site, but feel free!
 
 ## Wednesday
 
 
 1. Looking forward: Look over the documentation for all of the mongoose methods [listed in the morning module](https://github.com/sf-wdi-31/mongoose#crud-operations-with-mongoose), as well as [`populate()`](http://mongoosejs.com/docs/populate.html). Also read Mongoose's [models page](http://mongoosejs.com/docs/models.html#constructing-documents), which goes over alternatives like using the function `create()` instead of `new` and `save()` for making documents.
 
-2. Continue the [Mongoose Books App](https://github.com/sf-wdi-31/mongoose-books-app).  You should complete the guided portions of each sprint and attempt the challenges (at least in pseudocode). Remember to commit your work frequently, and push your changes to GitHub when you're about to switch to a different branch for a new sprint. 
+2. Continue the [Mongoose Books App](https://github.com/sf-wdi-31/mongoose-books-app).  You should complete the guided portions of sprints 1 and 2 and attempt the challenges (at least in pseudocode) of sprints 1 and 2. Remember to commit your work frequently, and push your changes to GitHub when you're about to switch to a different branch for a new sprint. 
 
 **When you finish work on the books app for this evening:**
 
@@ -23,5 +23,3 @@ The evening trainings and readings below will help you solidify work so far and/
 * add a link to the class repo at the top fo the README on your master branch,
 * push your changes to GitHub, and
 * and add a link to your repo on the "My Work" section of your personal website.
-
-
