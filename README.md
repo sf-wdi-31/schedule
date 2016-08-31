@@ -25,10 +25,10 @@
 [3-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#tuesday "..."
 
 [3-3A]: https://github.com/sf-wdi-31/mongoose "Mongo and mongoose"
-[3-3B]: # "..."
+[3-3B]: https://github.com/sf-wdi-31/mongoose-books-app "Mongoose Book App"
 [3-3C]: https://github.com/sf-wdi-31/mongoose-associations "Mongoose Associations"
-[3-3D]: # "..."
-[3-3E]: # "..."
+[3-3D]: https://github.com/sf-wdi-31/mongoose-books-app "Mongoose Book App"
+[3-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#wednesday "..."
 
 [3-4A]: https://github.com/sf-wdi-31/software-development-best-practices "..."
 [3-4B]: # "..."
