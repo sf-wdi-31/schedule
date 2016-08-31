@@ -6,7 +6,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | Science Fair | Outcomes (Neda) | [Mongo/Mongoose Intro (CF)][3-3A] | [Software Development Best Practices (IT)][3-4A] | Formative Assessment (IT)
  **10:45am <br> 12:15pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Training: Book App (CF)][3-3B] | [UX Guest Workshop (Billie)][3-4B] | Review (IT)
- **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Training: ToDo App][3-2C] | [Mongoose Relationships (BV)][3-3C] | [Personal API & Heroku (CF)][3-4C] | Personal API
+ **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Training: ToDo App][3-2C] | [Mongoose Associations (BV)][3-3C] | [Personal API & Heroku (CF)][3-4C] | Personal API
 **3:00pm <br> 4:30pm** | [Training: Express Params & Routes][3-1D] | [Training: ToDo App][3-2D] | [Training: Book App Sprints 2-3 (BV)][3-3D] | [Personal API & Heroku][3-4D] | Personal API   
 **Evening** | Training & REST Readings: [1][3-1E] [2][3-1F] [3][3-1G] | Training & [Database Primer][3-2E] | Training & [CRUD/Query Primer][3-3E] | Personal API | Personal API
 
@@ -26,7 +26,7 @@
 
 [3-3A]: https://github.com/sf-wdi-31/mongoose "Mongo and mongoose"
 [3-3B]: # "..."
-[3-3C]: # "..."
+[3-3C]: https://github.com/sf-wdi-31/mongoose-associations "Mongoose Associations"
 [3-3D]: # "..."
 [3-3E]: # "..."
 
