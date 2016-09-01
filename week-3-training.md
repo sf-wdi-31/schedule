@@ -26,7 +26,7 @@ The evening trainings and readings below will help you solidify work so far and/
  
 ## Thursday
 
-Continue the [Express Personal API] project. By Friday, complete:
+Continue the [Express Personal API](https://github.com/sf-wdi-31/express-personal-api) project. By Friday, complete:
 
 1. A first draft of your **Documented API Endpoints**
 2. **A Profile Endpoint**
