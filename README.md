@@ -34,7 +34,7 @@
 [3-4B]: # "..."
 [3-4C]: https://github.com/sf-wdi-31/mongoose-books-app "Book app sprint 3"
 [3-4D]: https://github.com/sf-wdi-31/express-personal-api "Personal API"
-[3-4E]: # "..."
+[3-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#thursday "Thursday HW"
 
 [3-5A]: # "..."
 [3-5B]: # "..."
