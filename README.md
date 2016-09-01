@@ -6,10 +6,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | NO SESSION | Outcomes (Neda) | Tunely () | [Binary Search (IT)][4-4A] | [Big O (BV)][4-5A]
- **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro () | Tunely Wrap-up () | Project 1 () | Project 1 ()
- **1:15pm <br> 2:45pm** | NO SESSION |  Tunely () | [Project 1][4-3C] Intro () | Project 1 () | Project 1 ()
-**3:00pm <br> 4:30pm** | NO SESSION | Tunely  () | Project 1 Approvals () | Project 1 () | Project 1 ()
+ **9:00am <br> 10:30am** | NO SESSION | Outcomes (Neda) | Tunely (CF) | [Binary Search (IT)][4-4A] | [Big O (BV)][4-5A]
+ **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro (BV) | Tunely Wrap-up (CF) | Project 1 (IT) | Project 1 (CF)
+ **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
+**3:00pm <br> 4:30pm** | NO SESSION | Tunely  (CF) | Project 1 Approvals (ALL) | Project 1 (BV) | Project 1 (BV)
 **Evening** | (Finish Personal API) | Tunely  | Project 1 | Project 1 | Project 1
 
 [4-1A]: # "..."
