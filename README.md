@@ -16,7 +16,7 @@
 [4-1B]: # "..."
 [4-1C]: # "..."
 [4-1D]: # "..."
-[4-1E]: # "https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend"
+[4-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend "Personal API"
 
 [4-2A]: # "..."
 [4-2B]: # "Tunely"
@@ -84,7 +84,7 @@
 [3-5B]: # "..."
 [3-5C]: # "..."
 [3-5D]: # "..."
-[3-5E]: # "https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend"
+[3-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend "Personal API"
 
 [Weekly Checklist](https://gist.github.com/iliastsangaris/740153e92e57d681fd440ef64c181d2d)
 
