@@ -10,13 +10,13 @@
  **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro (BV) | Tunely Wrap-up (CF) | Project 1 (IT) | Project 1 (CF)
  **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
 **3:00pm <br> 4:30pm** | NO SESSION | Tunely  (CF) | Project 1 Approvals (ALL) | Project 1 (BV) | Project 1 (BV)
-**Evening** | (Finish Personal API) | Tunely  | Project 1 | Project 1 | Project 1
+**Evening** | Finish [Personal API][4-1E] | Tunely  | Project 1 | Project 1 | Project 1
 
 [4-1A]: # "..."
 [4-1B]: # "..."
 [4-1C]: # "..."
 [4-1D]: # "..."
-[4-1E]: # "..."
+[4-1E]: # "https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend"
 
 [4-2A]: # "..."
 [4-2B]: # "Tunely"
@@ -52,7 +52,7 @@
  **10:45am <br> 12:15pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Training: Book App (CF)][3-3B] | [UX Guest Workshop (Billie)][3-4B] | Review (IT)
  **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Training: ToDo App][3-2C] | [Mongoose Associations (BV)][3-3C] | [Book App cont'd (CF)][3-4C] | Personal API (CF)
 **3:00pm <br> 4:30pm** | [Training: Express Params & Routes][3-1D] | [Training: ToDo App][3-2D] | [Training: Book App Sprints 2-3 (BV)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Personal API (BV)  
-**Evening** | Training & REST Readings: [1][3-1E] [2][3-1F] [3][3-1G] | Training & [Database Primer][3-2E] | Training & [CRUD/Query Primer][3-3E] | [Personal API][3-4E] | Personal API
+**Evening** | Training & REST Readings: [1][3-1E] [2][3-1F] [3][3-1G] | Training & [Database Primer][3-2E] | Training & [CRUD/Query Primer][3-3E] | [Personal API][3-4E] | [Personal API][3-5E]
 
 [3-1A]: # "..."
 [3-1B]: https://github.com/sf-wdi-31/express "Express and Node"
@@ -84,7 +84,7 @@
 [3-5B]: # "..."
 [3-5C]: # "..."
 [3-5D]: # "..."
-[3-5E]: # "..."
+[3-5E]: # "https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend"
 
 [Weekly Checklist](https://gist.github.com/iliastsangaris/740153e92e57d681fd440ef64c181d2d)
 
