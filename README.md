@@ -1,5 +1,49 @@
 #WDI 31 Schedule
 
+
+
+#### Week 4 - Project 1
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | NO SESSION | Outcomes (Neda) | Tunely (CF) | [Binary Search (IT)][4-4A] | [Big O (BV)][4-5A]
+ **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro (BV) | Tunely Wrap-up (CF) | Project 1 (IT) | Project 1 (CF)
+ **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
+**3:00pm <br> 4:30pm** | NO SESSION | Tunely  (CF) | Project 1 Approvals (ALL) | Project 1 (BV) | Project 1 (BV)
+**Evening** | (Finish Personal API) | Tunely  | Project 1 | Project 1 | Project 1
+
+[4-1A]: # "..."
+[4-1B]: # "..."
+[4-1C]: # "..."
+[4-1D]: # "..."
+[4-1E]: # "..."
+
+[4-2A]: # "..."
+[4-2B]: # "Tunely"
+[4-2C]: # "..."
+[4-2D]: # "..."
+[4-2E]: # "..."
+
+[4-3A]: # "..."
+[4-3B]: # "..."
+[4-3C]: # "Project 1"
+[4-3D]: # "..."
+[4-3E]: # "..."
+
+[4-4A]: # "Binary Search"
+[4-4B]: # "..."
+[4-4C]: # "..."
+[4-4D]: # "..."
+[4-4E]: # "..."
+
+[4-5A]: # "Big O"
+[4-5B]: # "..."
+[4-5C]: # "..."
+[4-5D]: # "..."
+[4-5E]: # "..."
+
+[Weekly Checklist](#)
+
 #### Week 3 - Server-side JavaScript
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
