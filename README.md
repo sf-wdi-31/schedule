@@ -19,7 +19,7 @@
 [4-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend "Personal API"
 
 [4-2A]: # "..."
-[4-2B]: # "Tunely"
+[4-2B]: https://github.com/sf-wdi-31/tunely "Tunely"
 [4-2C]: # "..."
 [4-2D]: # "..."
 [4-2E]: # "..."
