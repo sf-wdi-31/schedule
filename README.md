@@ -10,7 +10,7 @@
  **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro (BV) | Tunely Wrap-up (CF) | Project 1 (IT) | Project 1 (CF)
  **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
 **3:00pm <br> 4:30pm** | NO SESSION | Tunely  (CF) | Project 1 Approvals (ALL) | Project 1 (BV) | Project 1 (BV)
-**Evening** | Finish [Personal API][4-1E] | Tunely  | Project 1 | Project 1 | Project 1
+**Evening** | Finish [Personal API][4-1E] | [Tunely][4-2E]  | Project 1 | Project 1 | Project 1
 
 [4-1A]: # "..."
 [4-1B]: # "..."
@@ -22,7 +22,7 @@
 [4-2B]: https://github.com/sf-wdi-31/tunely "Tunely"
 [4-2C]: # "..."
 [4-2D]: # "..."
-[4-2E]: # "..."
+[4-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-4-training.md#tuesday "Tues HW"
 
 [4-3A]: # "..."
 [4-3B]: # "..."
