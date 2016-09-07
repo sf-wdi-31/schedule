@@ -26,21 +26,21 @@
 
 [4-3A]: # "..."
 [4-3B]: # "..."
-[4-3C]: # "Project 1"
-[4-3D]: # "..."
-[4-3E]: # "..."
+[4-3C]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-3D]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-3E]: https://github.com/sf-wdi-31/project-1 "Project 1"
 
 [4-4A]: # "Binary Search"
-[4-4B]: # "..."
-[4-4C]: # "..."
-[4-4D]: # "..."
-[4-4E]: # "..."
+[4-4B]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-4C]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-4D]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-4E]: https://github.com/sf-wdi-31/project-1 "Project 1"
 
 [4-5A]: # "Big O"
-[4-5B]: # "..."
-[4-5C]: # "..."
-[4-5D]: # "..."
-[4-5E]: # "..."
+[4-5B]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-5C]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-5D]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-5E]: https://github.com/sf-wdi-31/project-1 "Project 1"
 
 [Weekly Checklist](#)
 
