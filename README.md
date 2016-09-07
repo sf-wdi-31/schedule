@@ -8,7 +8,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | NO SESSION | Outcomes (Neda) | Tunely (CF) | [Binary Search (IT)][4-4A] | [Big O (BV)][4-5A]
  **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro (BV) | Tunely Wrap-up (CF) | Project 1 (IT) | Project 1 (CF)
- **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
+ **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [GitHub Collaboration (BV)][4-3C0]<hr>[Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
 **3:00pm <br> 4:30pm** | NO SESSION | Tunely  (CF) | Project 1 Approvals (ALL) | Project 1 (BV) | Project 1 (BV)
 **Evening** | Finish [Personal API][4-1E] | [Tunely][4-2E]  | Project 1 | Project 1 | Project 1
 
@@ -26,6 +26,7 @@
 
 [4-3A]: # "..."
 [4-3B]: # "..."
+[4-3C0]: https://github.com/sf-wdi-31/github-collaboration "GitHub Collaboration"
 [4-3C]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-3D]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-3E]: https://github.com/sf-wdi-31/project-1 "Project 1"
