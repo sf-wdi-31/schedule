@@ -31,7 +31,7 @@
 [4-3D]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-3E]: https://github.com/sf-wdi-31/project-1 "Project 1"
 
-[4-4A]: # "Binary Search"
+[4-4A]: https://github.com/sf-wdi-31/binary-search "Binary Search"
 [4-4B]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-4C]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-4D]: https://github.com/sf-wdi-31/project-1 "Project 1"
