@@ -3,7 +3,7 @@
 
 #### Week 5 - Angular
 
- Time | Day 1 |  Day 2 | Day 5| Day 4 | Day 5|
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Update & Delete (IT)][5-4A] | Formative Assessment (CF)
  **10:45am <br> 12:15pm** | Project 1 | Project 1 |  [Directives & Expressions (CF)][5-3B] | [Training: `$http` U & D (IT)][5-4B] | Review (CF)
