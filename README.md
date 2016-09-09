@@ -87,7 +87,7 @@
 [4-5D]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-5E]: https://github.com/sf-wdi-31/project-1 "Project 1"
 
-[Weekly Checklist](#)
+No weekly checklist (project 1).
 
 #### Week 3 - Server-side JavaScript
 
