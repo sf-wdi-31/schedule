@@ -1,6 +1,50 @@
 #WDI 31 Schedule
 
 
+#### Week 5 - Angular
+
+ Time | Day 1 |  Day 2 | Day 5| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Bubble Sort ()][5-1A] |  [Mergesort ()][5-2A] | [Angular Intro ()][5-3A] | [`$http` Update & Delete ()][5-4A] | Formative Assessment ()
+ **10:45am <br> 12:15pm** | Project 1 | Project 1 |  [Directives & Expressions ()][5-3B] | [Training: `$http` U & D][5-4B] | Review ()
+ **1:15pm <br> 2:45pm** | Project 1 |  Project 1 Presentations |  [`$http` Create & Read ()][5-3C] | [Client-side Routing ()][5-4C] | Book App ()
+**5:00pm <br> 4:30pm** | Project 1 | Project 1 Presentations |   [Training: `$http` C & R ()][5-3D] | [Training: Routing ()][5-4D] | Book App ()  
+**Evening** | Project 1  |  Rest! |  [Training][5-3E] | [Training][5-4E] | [Training][5-5E]
+
+[5-1A]: # "..."
+[5-1B]: # "..."
+[5-1C]: # "..."
+[5-1D]: # "..."
+[5-1E]: # "..."
+[5-1F]: # "..."
+[5-1G]: # "..."
+
+[5-2A]: # "..."
+[5-2B]: # "..."
+[5-2C]: # "..."
+[5-2D]: # "..."
+[5-2E]: # "..."
+
+[3-5A]: # "..."
+[3-5B]: # "..."
+[3-5C]: # "..."
+[3-5D]: # "..."
+[3-5E]: # "..."
+
+[5-4A]: # "..."
+[5-4B]: # "..."
+[5-4C]: # "..."
+[5-4D]: # "..."
+[5-4E]: # "..."
+
+[5-5A]: # "..."
+[5-5B]: # "..."
+[5-5C]: # "..."
+[5-5D]: # "..."
+[5-5E]: # "..."
+
+[Weekly Checklist](#)
+
 
 #### Week 4 - Project 1
 
