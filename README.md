@@ -11,7 +11,7 @@
 **3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Training: `$http` C & R (BV)][5-3D] | [Training: Routing (BV)][5-4D] | Book App (BV)  
 **Evening** | Project 1  |  Rest! |  [Training][5-3E] | [Training][5-4E] | Book App
 
-[5-1A]: # "..."
+[5-1A]: https://github.com/sf-wdi-31/bubble-sort "bubble sort"
 [5-1B]: # "..."
 [5-1C]: # "..."
 [5-1D]: # "..."
