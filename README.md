@@ -27,12 +27,12 @@
 
 [5-3A]: # "..."
 [5-3B]: # "..."
-[5-3C]: # "..."
+[5-3C]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-read-create.md "..."
 [5-3D]: # "..."
 [5-3E]: # "..."
 
 [5-4A]: # "..."
-[5-4B]: # "..."
+[5-4B]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-update-delete.md "..."
 [5-4C]: # "..."
 [5-4D]: # "..."
 [5-4E]: # "..."
