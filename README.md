@@ -43,7 +43,7 @@
 [5-5D]: # "..."
 [5-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5)
 
 
 #### Week 4 - Project 1
