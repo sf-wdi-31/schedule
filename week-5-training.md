@@ -12,4 +12,7 @@ The evening trainings and readings below will help you solidify work so far and/
 ### Tuesday
 
 1. Watch this conference presentation called [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII). (Protip, watch it at 1.5x or 2x speed to decrease the time commitment.)
-2. INTRO ANGULAR READING
+2. Read [the Angular Developer's Guide introduction to angular](https://docs.angularjs.org/guide/introduction) with these questions in mind:
+  * What problems is Angular aiming to address?
+  * What terminology is unfamiliar?
+  * What questions do you have entering into using Angular?
