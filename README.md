@@ -31,11 +31,11 @@
 [5-3D]: https://github.com/sf-wdi-31/ng-hangman "..."
 [5-3E]: # "..."
 
-[5-4A]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-update-delete.md "..."
-[5-4B]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-update-delete.md "..."
+[5-4A]: https://github.com/sf-wdi-31/ng-read-create "..."
+[5-4B]: https://github.com/sf-wdi-31/ng-read-create "..."
 [5-4C]: # "..."
-[5-4D]: # "..."
-[5-4E]: # "..."
+[5-4D]: https://github.com/sf-wdi-31/ng-update-delete "UD"
+[5-4E]: https://github.com/sf-wdi-31/ng-update-delete "..."
 
 [5-5A]: # "..."
 [5-5B]: # "..."
