@@ -25,6 +25,6 @@ The evening trainings and readings below will help you solidify work so far and/
 
 2. Finish [Angular Hangman](https://github.com/sf-wdi-31/ng-hangman). When you're finished with it for the evening:
   - Update the readme to have a 3-5 sentence reflection on how the project went for you. 
-  - Add a link to your GitHub repo on the "My Work" section of your personal website. (You can even use GitHub pages or Bitballoon to publish your game if you'd like!)
+  - Add a link to your GitHub repo on the "My Work" section of your personal website. 
 
 > **As an additional resource**, you can check out [Code School's AngularJS Tutorial](https://github.com/sf-wdi-31/ng-read-create.git). Level 1 covers a lot of the material from today, and level 2 adds on some more interesing directives. 
