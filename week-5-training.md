@@ -16,3 +16,15 @@ The evening trainings and readings below will help you solidify work so far and/
   * What problems is Angular aiming to address?
   * What terminology is unfamiliar?
   * What questions do you have entering into using Angular?
+
+### Wednesday
+
+1. Finish the "instructions" portion of Tune.ly Angular sprint 1. Give yourself a time limit for trying to get it working independently (maybe 30 minutes). After that time, work through the solutions for sprint 1.  
+
+ > Angular debugging protip: triple-check that you've done every step and spelled everything correctly; there are a lot of variable names and strings that *must* match between your JavaScript and HTML. 
+
+2. Finish [Angular Hangman](https://github.com/sf-wdi-31/ng-hangman). When you're finished with it for the evening:
+  - Update the readme to have a 3-5 sentence reflection on how the project went for you. 
+  - Add a link to your GitHub repo on the "My Work" section of your personal website. (You can even use GitHub pages or Bitballoon to publish your game if you'd like!)
+
+> **As an additional resource**, you can check out [Code School's AngularJS Tutorial](https://github.com/sf-wdi-31/ng-read-create.git). Level 1 covers a lot of the material from today, and level 2 adds on some more interesing directives. 
