@@ -29,7 +29,7 @@
 [5-3B]: # "..."
 [5-3C]: https://github.com/sf-wdi-31/ng-hangman "..."
 [5-3D]: https://github.com/sf-wdi-31/ng-hangman "..."
-[5-3E]: # "..."
+[5-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#wednesday "..."
 
 [5-4A]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-update-delete.md "..."
 [5-4B]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-update-delete.md "..."
