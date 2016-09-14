@@ -5,10 +5,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Update & Delete (IT)][5-4A] | Formative Assessment (CF)
- **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [Training: `$http` U & D (IT)][5-4B] | Review (CF)
- **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [`$http` Create & Read (BV)][5-3C] | [Client-side Routing (BV)][5-4C] | [Book App (BV)][5-5C]
-**3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Training: `$http` C & R (BV)][5-3D] | [Training: Routing (BV)][5-4D] | Book App (BV) 
+ **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Create and Read (IT)][5-4A] | [Client-side Routing (BV)][5-5A]
+ **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [`$http` Create & Read (BV)][5-4B] | Client-side Routing (BV)
+ **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [`$http` Create & Read (BV)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
+**3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Training: `$http` C & R (BV)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
 **Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Book App
 
 [5-1A]: https://github.com/sf-wdi-31/bubble-sort "bubble sort"
@@ -25,7 +25,7 @@
 [5-2D]: # "..."
 [5-2E]: https://github.com/sf-wdi-31/schedule/blob/week-5-training/week-5-training.md#tuesday "Tuesday hw"
 
-[5-3A]: # "..."
+[5-3A]: https://github.com/sf-wdi-31/intro-angular "Angular Intro"
 [5-3B]: # "..."
 [5-3C]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-read-create.md "..."
 [5-3D]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-read-create.md "..."
