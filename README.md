@@ -5,7 +5,7 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Create and Read (IT)][5-4A] | [Client-side Routing (BV)][5-5A]
+ **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Create and Read (BV)][5-4A] | [Client-side Routing (BV)][5-5A]
  **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [`$http` Create & Read (BV)][5-4B] | Client-side Routing (BV)
  **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [Hangman App (IT)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
 **3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Hangman App (IT)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
