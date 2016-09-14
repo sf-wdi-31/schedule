@@ -7,8 +7,8 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Create and Read (IT)][5-4A] | [Client-side Routing (BV)][5-5A]
  **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [`$http` Create & Read (BV)][5-4B] | Client-side Routing (BV)
- **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [`$http` Create & Read (BV)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
-**3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Training: `$http` C & R (BV)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
+ **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [Hangman App (IT)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
+**3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Hangman App (IT)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
 **Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Book App
 
 [5-1A]: https://github.com/sf-wdi-31/bubble-sort "bubble sort"
