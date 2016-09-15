@@ -35,7 +35,7 @@
 [5-4B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint2.md "Tunely Angular Sprint 2"
 [5-4C]: https://github.com/sf-wdi-31/ng-CRUD/blob/master/ng-update-delete.md "..."
 [5-4D]: # "..."
-[5-4E]: # "..."
+[5-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#thursday "..."
 
 [5-5A]: # "..."
 [5-5B]: # "..."
