@@ -27,4 +27,11 @@ The evening trainings and readings below will help you solidify work so far and/
   - Update the readme to have a 3-5 sentence reflection on how the project went for you. 
   - Add a link to your GitHub repo on the "My Work" section of your personal website. 
 
-> **As an additional resource**, you can check out [Code School's AngularJS Tutorial](https://github.com/sf-wdi-31/ng-read-create.git). Level 1 covers a lot of the material from today, and level 2 adds on some more interesing directives. 
+> **As an additional resource**, you can check out [Code School's AngularJS Tutorial](https://www.codeschool.com/courses/shaping-up-with-angular-js). Level 1 covers a lot of the material from today, and level 2 adds on some more interesing directives. 
+
+
+### Thursday
+
+1. Go back over the Angular apps we've seen so far.  Try to write down **all** the steps you would take to create an Angular app from scratch.  Create a GitHub [gist](https://help.github.com/articles/about-gists/) that lists all your steps, and link it in the My Work section of your personal website (communicating about technology is an important skill!).  
+
+1. Review the learning objectives from this week, and write down at least one question about the material.  **Bring your written question to GA tomorrow.**
