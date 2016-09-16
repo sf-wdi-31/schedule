@@ -9,7 +9,7 @@
  **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [Training: `$http` Create & Read (BV)][5-4B] | [Training: Client-side Routing (BV)][5-5B]
  **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [Hangman App (IT)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
 **3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Hangman App (IT)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
-**Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Book App
+**Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book App][5-5E]
 
 [5-1A]: https://github.com/sf-wdi-31/bubble-sort "bubble sort"
 [5-1B]: # "..."
@@ -40,8 +40,8 @@
 [5-5A]: https://github.com/sf-wdi-31/angular-routing "..."
 [5-5B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint4.md "..."
 [5-5C]: # "..."
-[5-5D]: # "..."
-[5-5E]: # "..."
+[5-5D]: https://github.com/sf-wdi-31/angular-books-crud-lab "..."
+[5-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#weekend "..."
 
 [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5)
 
