@@ -38,9 +38,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Weekend
 
-1. Complete the [Angular Books App](https://github.com/sf-wdi-31/angular-books-crud-lab)! 
-
-When you finish work on the books app:
+1. Complete the [Angular Books App](https://github.com/sf-wdi-31/angular-books-crud-lab)! When you finish work on the books app:
 
 * add a 3-5 sentence summary of how the training went for you to the top of the README on your master branch,
 * add a link to the class repo at the top of the README on your master branch,
