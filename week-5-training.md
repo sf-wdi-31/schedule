@@ -35,3 +35,15 @@ The evening trainings and readings below will help you solidify work so far and/
 1. Go back over the Angular apps we've seen so far.  Try to write down **all** the steps you would take to create an Angular app from scratch.  Create a PUBLIC GitHub [gist](https://help.github.com/articles/about-gists/) that lists all your steps, and link it in the My Work section of your personal website (communicating about technology is an important skill!).  Here's a [quick gist create link](https://gist.github.com/).
 
 1. Review the learning objectives from this week, and write down at least one question about the material.  Bring your written question to GA tomorrow!
+
+### Weekend
+
+1. Complete the [Angular Books App](https://github.com/sf-wdi-31/angular-books-crud-lab)! 
+
+When you finish work on the books app:
+
+* add a 3-5 sentence summary of how the training went for you to the top of the README on your master branch,
+* add a link to the class repo at the top of the README on your master branch,
+* push your changes to GitHub, and
+* and add a link to your repo on the "My Work" section of your personal website.
+
