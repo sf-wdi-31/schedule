@@ -37,7 +37,7 @@
 [5-4D]: # "..."
 [5-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#thursday "..."
 
-[5-5A]: # "..."
+[5-5A]: https://github.com/sf-wdi-31/angular-routing "..."
 [5-5B]: # "..."
 [5-5C]: # "..."
 [5-5D]: # "..."
