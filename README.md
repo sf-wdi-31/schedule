@@ -1,15 +1,58 @@
 #WDI 31 Schedule
 
+#### Week 6 - Getting Acute with Angular
+*or, Building Momentum with Angular*
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Tunely-Angular Sprint 5 (BV)][6-1A] |  Outcomes (Neda) | [Angular build (BV & IT)][6-3A] | [Angular Build (BV)][6-4A] | [Share Angular Build & Review][6-5A]
+ **10:45am <br> 12:15pm** | [Tunely-Angular Sprint 5 (BV)][6-1B] | [Make a Directive (CF & IT)][6-2B] |  Angular Build (BV) | [Angular Build (BV)][6-4B] | [Intro Ruby (BV)][6-5B]
+ **1:15pm <br> 2:45pm** | [Custom Directives (CF)][6-1C] |  [Services (BV)][6-2C] |  Angular Build (CF) | [Angular Build (CF)][6-4C] | [Training: Ruby (BV)][6-5C]
+**3:00pm <br> 4:30pm** | [Custom Directives (CF)][6-1D] | [Services (BV)][6-2D] |   Angular Build (CF) | [Angular Build (CF)][6-4D] | Training: Ruby
+**Evening** | [Training][6-1E]  |  [Training][6-2E] |  [Training][6-3E] | [Training][6-4E] | Training: Ruby
+
+[6-1A]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint5.md "..."
+[6-1B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint5.md "..."
+[6-1C]: https://github.com/sf-wdi-31/angular-custom-directives "..."
+[6-1D]: https://github.com/sf-wdi-31/angular-custom-directives "..."
+[6-1E]: # "..."
+
+[6-2A]: # "..."
+[6-2B]: # "..."
+[6-2C]: # "..."
+[6-2D]: # "..."
+[6-2E]: # "..."
+
+[6-3A]: # "..."
+[6-3B]: # "..."
+[6-3C]: # "..."
+[6-3D]: # "..."
+[6-3E]: # "..."
+
+[6-4A]: # "..."
+[6-4B]: # "..."
+[6-4C]: # "..."
+[6-4D]: # "..."
+[6-4E]: # "..."
+
+[6-5A]: # "..."
+[6-5B]: # "..."
+[6-5C]: # "..."
+[6-5D]: # "..."
+[6-5E]: # "..."
+
+[Weekly Checklist](#)
+
 
 #### Week 5 - Angular
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Create and Read (BV)][5-4A] | [Client-side Routing (BV)][5-5A]
- **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [`$http` Create & Read (BV)][5-4B] | Client-side Routing (BV)
+ **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [Training: `$http` Create & Read (BV)][5-4B] | [Training: Client-side Routing (BV)][5-5B]
  **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [Hangman App (IT)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
 **3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Hangman App (IT)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
-**Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Book App
+**Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book App][5-5E]
 
 [5-1A]: https://github.com/sf-wdi-31/bubble-sort "bubble sort"
 [5-1B]: # "..."
@@ -29,19 +72,21 @@
 [5-3B]: # "..."
 [5-3C]: https://github.com/sf-wdi-31/ng-hangman "..."
 [5-3D]: https://github.com/sf-wdi-31/ng-hangman "..."
-[5-3E]: # "..."
+[5-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#wednesday "..."
 
 [5-4A]: https://github.com/sf-wdi-31/ng-read-create "..."
+
 [5-4B]: https://github.com/sf-wdi-31/ng-read-create "..."
 [5-4C]: # "..."
 [5-4D]: https://github.com/sf-wdi-31/ng-update-delete "UD"
 [5-4E]: https://github.com/sf-wdi-31/ng-update-delete "..."
 
-[5-5A]: # "..."
-[5-5B]: # "..."
+
+[5-5A]: https://github.com/sf-wdi-31/angular-routing "..."
+[5-5B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint4.md "..."
 [5-5C]: # "..."
-[5-5D]: # "..."
-[5-5E]: # "..."
+[5-5D]: https://github.com/sf-wdi-31/angular-books-crud-lab "..."
+[5-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#weekend "..."
 
 [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5)
 
