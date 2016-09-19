@@ -1,5 +1,48 @@
 #WDI 31 Schedule
 
+#### Week 6 - Getting Acute with Angular
+*or, Building Momentum with Angular*
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Tunely-Angular Sprint 5 (BV)][6-1A] |  Outcomes (Neda) | [Angular build (BV & IT)][6-3A] | [Angular Build (BV)][6-4A] | [Share Angular Build & Review][6-5A]
+ **10:45am <br> 12:15pm** | [Tunely-Angular Sprint 5 (BV)][6-1B] | [Make a Directive (CF & IT)][6-2B] |  Angular Build (BV) | [Angular Build (BV)][6-4B] | [Intro Ruby (BV)][6-5B]
+ **1:15pm <br> 2:45pm** | [Custom Directives (CF)][6-1C] |  [Services (BV)][6-2C] |  Angular Build (CF) | [Angular Build (CF)][6-4C] | [Ruby (IT)][6-5C]
+**3:00pm <br> 4:30pm** | [Custom Directives (CF)][6-1D] | [Services (BV)][6-2D] |   Angular Build (CF) | [Angular Build (CF)][6-4D] | [Ruby (IT)][6-5D]
+**Evening** | [Training][6-1E]  |  [Training][6-2E] |  [Training][6-3E] | [Training][6-4E] | [Training][6-5E]
+
+[6-1A]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint5.md "..."
+[6-1B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint5.md "..."
+[6-1C]: # "..."
+[6-1D]: # "..."
+[6-1E]: # "..."
+
+[6-2A]: # "..."
+[6-2B]: # "..."
+[6-2C]: # "..."
+[6-2D]: # "..."
+[6-2E]: # "..."
+
+[6-3A]: # "..."
+[6-3B]: # "..."
+[6-3C]: # "..."
+[6-3D]: # "..."
+[6-3E]: # "..."
+
+[6-4A]: # "..."
+[6-4B]: # "..."
+[6-4C]: # "..."
+[6-4D]: # "..."
+[6-4E]: # "..."
+
+[6-5A]: # "..."
+[6-5B]: # "..."
+[6-5C]: # "..."
+[6-5D]: # "..."
+[6-5E]: # "..."
+
+[Weekly Checklist](#)
+
 
 #### Week 5 - Angular
 
