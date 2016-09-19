@@ -18,7 +18,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Based on your research, either answer each of the following questions or write a new, more specific question about the topic:
   * What is a promise?
-  * What does it mean for a promise to be pending, fulfilled/resolved, and rejected?
+  * What does it mean for a promise to be pending, fulfilled, resolved, and rejected?
   * How does promise "chaining" work?
   * Draw the lifecycle of a promise.  
   
