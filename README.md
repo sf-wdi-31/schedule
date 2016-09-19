@@ -15,7 +15,7 @@
 [6-1B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint5.md "..."
 [6-1C]: https://github.com/sf-wdi-31/angular-custom-directives "..."
 [6-1D]: https://github.com/sf-wdi-31/angular-custom-directives "..."
-[6-1E]: # "..."
+[6-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-6-training.md#monday "..."
 
 [6-2A]: # "..."
 [6-2B]: # "..."
