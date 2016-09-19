@@ -41,7 +41,7 @@
 [6-5D]: # "..."
 [6-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/mattlaguardia/727ca99d67de0f733f3465037edcff18)
 
 
 #### Week 5 - Angular
