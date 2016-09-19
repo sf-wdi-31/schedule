@@ -11,7 +11,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * How does promise "chaining" work?
   * Draw the lifecycle of a promise.  
   <br>
-  
+
   Resources:
     * Read the first half of  this [cartoon explanation of promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html), by Andy Shora. (Stop before "What does this look like in code?")
     * Read the "Description" section of MDN's [JavaScript Promise documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise#Description). What an awesome diagram! 
