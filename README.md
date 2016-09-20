@@ -18,7 +18,7 @@
 [6-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-6-training.md#monday "..."
 
 [6-2A]: # "..."
-[6-2B]: # "..."
+[6-2B]: https://github.com/sf-wdi-31/making-a-custom-directive "..."
 [6-2C]: # "..."
 [6-2D]: # "..."
 [6-2E]: # "..."
