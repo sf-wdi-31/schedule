@@ -8,7 +8,7 @@
  **9:00am <br> 10:30am** | [Tunely-Angular Sprint 5 (BV)][6-1A] |  Outcomes (Neda) | [Angular Build (BV & IT)][6-3A] | [Angular Build (BV)][6-4A] | [Share Angular Build (CF)][6-5A]
  **10:45am <br> 12:15pm** | [Tunely-Angular Sprint 5 (BV)][6-1B] | [Make a Directive (CF & IT)][6-2B] |  Angular Build (BV) | [Angular Build (BV)][6-4B] | [Intro Ruby (BV)][6-5B]
  **1:15pm <br> 2:45pm** | [Custom Directives (CF)][6-1C] |  [Promises (BV)][6-2C] |  Angular Build (CF) | [Angular Build (CF)][6-4C] | [Training: Ruby (BV)][6-5C]
-**3:00pm <br> 4:30pm** | [Custom Directives (CF)][6-1D] | [Angular Services][6-2D] & [Services Training][6-2E]|   Angular Build (CF) | [Angular Build (CF)][6-4D] | Training: Ruby
+**3:00pm <br> 4:30pm** | [Custom Directives (CF)][6-1D] | [Angular Services][6-2D] & [Services Training][6-2E] (BV)|   Angular Build (CF) | [Angular Build (CF)][6-4D] | Training: Ruby
 **Evening** | [Training][6-1E]  |  [Training][6-2F] |  [Training][6-3E] | [Training][6-4E] | Training: Ruby
 
 [6-1A]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint5.md "..."
