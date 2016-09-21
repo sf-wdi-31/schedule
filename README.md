@@ -24,7 +24,7 @@
 [6-2E]: https://github.com/sf-wdi-31/angular-services-training "..."
 [6-2F]: https://github.com/sf-wdi-31/schedule/blob/master/week-6-training.md#tuesday "..."
 
-[6-3A]: # "..."
+[6-3A]: https://github.com/sf-wdi-31/angular-build/ "..."
 [6-3B]: # "..."
 [6-3C]: # "..."
 [6-3D]: # "..."
