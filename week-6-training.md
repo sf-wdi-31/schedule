@@ -55,6 +55,5 @@ Angular build!
  - About Nil - `about_nil.rb`
  - About Strings - `about_strings.rb`
 
-Use any extra time to go farther with the resources above or check out other resources. Here are a few possibilities:
-- [Intro Ruby Training](intro-ruby-training)
+Use any extra time to go farther with the resources above or check out other resources. Here's a possibility:
 - [codewars for Ruby](https://www.codewars.com/?language=ruby)
