@@ -36,91 +36,22 @@ Angular build!
 
 ### Weekend
 
-1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour or two on this. The whole tutorial is very useful, but at least do levels 1-4.
- 
-2. Take about fifteen minutes (total) skimming through the following 3 free books on Ruby. Spend a little time really reading the table of contents (if there is one) and seeing what piques your interest. 
+1. Take about fifteen minutes (total) skimming through the following 3 free books on Ruby. Spend a little time really reading the table of contents (if there is one) and seeing what piques your interest. 
 
  - http://poignant.guide/book/chapter-1.html
  - http://humblelittlerubybook.com/book/html/index.html
  - http://ruby-doc.com/docs/ProgrammingRuby/
  
- - Another great but non-free reading is Practical Object Oriented Design (POODR) by Sandi Metz, chapters 1-3.
+ Choose at least one of these books to read more of, and spend at least an hour with it this weekend. (But also get some rest, it's been a long week!) Skip ahead to the topics that interested you most. You can always go back to previous chapters later. 
 
-3. Choose at least one of these books to read more of, and spend at least an hour with it this weekend. (But also get some rest, it's been a long week!) 
+ > Another great but non-free reading is Practical Object Oriented Design (POODR) by Sandi Metz, chapters 1-3.
 
-     **reading tips for technical books:**
-  - If you are getting bored, skip ahead to something you are more curious about. You can always come back later.
-  - Read the about the author, so you know why you should care what they think. After that, skip to chapter 1, or alternatively skip to a chapter you are especially excited about. Don't bother with the introduction, etc. 
+1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour or two on this. The whole tutorial is very useful, but at least do levels 1-4.
 
-5. Complete the following [Ruby Koans website](http://rubykoans.com/):
+1. Complete the following [Ruby Koans website](http://rubykoans.com/):
 
 - About Asserts - `about_asserts.rb`. This will help you understand how the tests are working, but it's a new concept. Remember, don't get stuck.
 - About True and False - `about_true_and_false.rb`
 - About Nil - `about_nil.rb`
 - About Strings - `about_strings.rb`
 
-
-<details><summary>Click for more information about Ruby Koans</summary>
-
-Go to the [Ruby Koans website](http://rubykoans.com/) and click the link to download the koans. Extract the zip file into a directory of your choice. From terminal, `cd` into the koans directory and run `ls`. Wow, that's a lot of files!
-
-Each file is a self-contained exercise that will teach you a bit about Ruby, using test driven development with a zen flair. Essentially, you will be given code that has something wrong with it, as well as instructions about what needs to be fixed. You'll achieve enlightenment by making the necessary changes for the tests to pass.
-
-For example, you could use this command to run `about_hashes.rb` in the Terminal:
-```bash
-:> ruby about_hashes.rb
-```
-<details><summary>click to see output</summary>
-```ruby
-AboutHashes#test_creating_hashes has damaged your karma.
-
-The Master says:
-  You have not yet reached enlightenment.
-
-The answers you seek...
-  Expected "FILL ME IN" to equal Hash
-
-Please meditate on the following code:
-  about_hashes.rb:6:in `test_creating_hashes'
-
-mountains are merely mountains
-your path thus far [X_________________________________________________] 0/12
-```
-</details>
-
-Each koan file has some blanks you should fill or lines you should change to "reach enlightenment."  Read the comments in a koan file one by one to see what each part should do. If you're unsure what one of the tests is asking for, try a few things, ask in Slack, and skip it if you need to (don't get stuck!).
-
-The koan files have some structure we haven't gone over yet:
-
-* Methods are defined by the blocks that start with `def` and end with `end` -- these reserved words are like the curly brackets of Ruby methods.  Note that when a method is called, it doesn't need parentheses.    
-* Assert statements say something should be true. For instance `assert_equal hash.size, 2` means that the hash should have 2 things in it. This is also an example of a method call without parentheses. 
-* The `class`  in each file is a way of organizing the code and grouping the methods together.
-
-<details><summary>Click for an example of completing parts of a koan (from `about_hashes.rb`):</summary>
-
-```ruby
-require File.expand_path(File.dirname(__FILE__) + '/neo')
-
-class AboutHashes < Neo::Koan
-  def test_creating_hashes
-    empty_hash = Hash.new
-    assert_equal Hash, empty_hash.class
-    assert_equal({}, empty_hash)
-    assert_equal 0, empty_hash.size
-  end
-
-  def test_hash_literals
-    hash = { :one => "uno", :two => "dos" }
-    assert_equal 2, hash.size
-  end
-
-  def test_accessing_hashes
-    hash = { :one => "uno", :two => "dos" }
-    assert_equal "uno", hash[:one]
-    assert_equal "dos", hash[:two]
-    assert_equal nil, hash[:doesnt_exist]
-  end
-end
-```
-
-</details></details>
