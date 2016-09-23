@@ -44,14 +44,17 @@ Angular build!
  
  Choose at least one of these books to read more of, and spend at least an hour with it this weekend. (But also get some rest, it's been a long week!) Skip ahead to the topics that interested you most. You can always go back to previous chapters later. 
 
- > Another great but non-free reading is Practical Object Oriented Design (POODR) by Sandi Metz, chapters 1-3.
+ > Another great but non-free book is Practical Object Oriented Design (POODR) by Sandi Metz.  For starting out Ruby, you could focus on chapters 1-3.
 
-1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour or two on this. The whole tutorial is very useful, but at least do levels 1-4.
+1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour or two on this._
 
 1. Get as far as you can with the Ruby Koans listed below. See [ruby-koans.md](ruby-koans.md) for an explanation of Ruby Koans.
 
-- About Asserts - `about_asserts.rb`. This will help you understand how the tests are working, but it's a new concept. Remember, don't get stuck.
-- About True and False - `about_true_and_false.rb`
-- About Nil - `about_nil.rb`
-- About Strings - `about_strings.rb`
+ - About Asserts - `about_asserts.rb`. This will help you understand how the tests are working, but it's a new concept. Remember, don't get stuck.
+ - About True and False - `about_true_and_false.rb`
+ - About Nil - `about_nil.rb`
+ - About Strings - `about_strings.rb`
 
+Use any extra time to go farther with the resources above or check out other resources. Here are a few possibilities:
+- [Intro Ruby Training](intro-ruby-training)
+- [codewars for Ruby](https://www.codewars.com/?language=ruby)
