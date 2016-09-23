@@ -80,7 +80,7 @@
 
 [6-5A]: # "..."
 [6-5B]: https://github.com/sf-wdi-31/intro-ruby "..."
-[6-5C]: # "..."
+[6-5C]: https://github.com/sf-wdi-31/schedule/blob/master/week-6-training.md#weekend "..."
 [6-5D]: # "..."
 [6-5E]: # "..."
 
