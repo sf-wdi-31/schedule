@@ -48,7 +48,7 @@ Angular build!
 
 1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour or two on this. The whole tutorial is very useful, but at least do levels 1-4.
 
-1. Complete the following [Ruby Koans website](http://rubykoans.com/):
+1. Get as far as you can with the following [Ruby Koans website](http://rubykoans.com/):
 
 - About Asserts - `about_asserts.rb`. This will help you understand how the tests are working, but it's a new concept. Remember, don't get stuck.
 - About True and False - `about_true_and_false.rb`
