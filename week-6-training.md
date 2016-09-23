@@ -46,9 +46,9 @@ Angular build!
 
  > Another great but non-free book is Practical Object Oriented Design (POODR) by Sandi Metz.  For starting out Ruby, you could focus on chapters 1-3.
 
-1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour or two on this._
+1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend an hour on this._
 
-1. Get as far as you can with the Ruby Koans listed below. See [ruby-koans.md](ruby-koans.md) for an explanation of Ruby Koans.
+1. Get as far as you can with the Ruby Koans listed below in 1-2 hours. See [ruby-koans.md](ruby-koans.md) for an explanation of Ruby Koans.
 
  - About Asserts - `about_asserts.rb`. This will help you understand how the tests are working, but it's a new concept. Remember, don't get stuck.
  - About True and False - `about_true_and_false.rb`
