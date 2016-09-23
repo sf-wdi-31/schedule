@@ -1,5 +1,47 @@
 #WDI 31 Schedule
 
+#### Week 7 - Ruby & Rails
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Ruby Methods (CF)][7-1A] |  Outcomes (Neda) | [TDD with Rspec (BV)][7-3A] | [Active Record (CF)][7-4A] | [Assessment (CF)][7-5A]
+ **10:45am <br> 12:15pm** | [Ruby Methods (CF)][7-1B] | [Ruby OOP (BV)][7-2B] |  [Training: Rspec (BV)][7-3B] | [Active Record (CF)][7-4B] | [Review (CF)][7-5B]
+ **1:15pm <br> 2:45pm** | [Training: Ruby Methods (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views (BV)][7-4C] | [Bog App (BV)][7-5C]
+**3:00pm <br> 4:30pm** | [Training: Ruby Methods (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Rails Views (BV)][7-4D] | Bog App (BV)
+**Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
+[7-1A]: # "..."
+[7-1B]: # "..."
+[7-1C]: # "..."
+[7-1D]: # "..."
+[7-1E]: # "..."
+
+[7-2A]: # "..."
+[7-2B]: # "..."
+[7-2C]: # "..."
+[7-2D]: # "..."
+[7-2E]: # "..."
+
+[7-3A]: # "..."
+[7-3B]: # "..."
+[7-3C]: # "..."
+[7-3D]: # "..."
+[7-3E]: # "..."
+
+[7-4A]: # "..."
+[7-4B]: # "..."
+[7-4C]: # "..."
+[7-4D]: # "..."
+[7-4E]: # "..."
+
+[7-5A]: # "..."
+[7-5B]: # "..."
+[7-5C]: # "..."
+[7-5D]: # "..."
+[7-5E]: # "..."
+
+[Weekly Checklist](#)
+
+
 #### Week 6 - Getting Acute with Angular
 *or, Building Momentum with Angular*
 
