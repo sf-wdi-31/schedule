@@ -9,7 +9,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * If you're not feeling cars, create an entirely different class following the same examples (plants? phones? baseball players?)!  **Following along in code is a great strategy for reading docs on unfamiliar topics!**  
   * If you want to split this longer reading up a little, good break points are before "Inheritance" and before "Modules".
  
-
+2. If you have time after the reading, finish the <b>first 3 methods in each of the exercises</b> of this [training](https://github.com/sf-wdi-31/ruby_method_drills). This should only be complete after the OOP Reading.
 
 <!-- 
 
