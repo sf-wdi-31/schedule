@@ -9,8 +9,8 @@
  **1:15pm <br> 2:45pm** | [Training: Ruby Methods (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views (BV)][7-4C] | [Bog App (BV)][7-5C]
 **3:00pm <br> 4:30pm** | [Training: Ruby Methods (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Rails Views (BV)][7-4D] | Bog App (BV)
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
-[7-1A]: # "..."
-[7-1B]: # "..."
+[7-1A]: https://github.com/sf-wdi-31/ruby-methods "..."
+[7-1B]: https://github.com/sf-wdi-31/ruby-methods "..."
 [7-1C]: # "..."
 [7-1D]: # "..."
 [7-1E]: # "..."
