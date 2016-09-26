@@ -6,14 +6,14 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Ruby Methods (CF)][7-1A] |  Outcomes (Neda) | [TDD with Rspec (BV)][7-3A] | [Active Record (CF)][7-4A] | [Assessment (CF)][7-5A]
  **10:45am <br> 12:15pm** | [Ruby Methods (CF)][7-1B] | [Ruby OOP (BV)][7-2B] |  [Training: Rspec (BV)][7-3B] | [Active Record (CF)][7-4B] | [Review (CF)][7-5B]
- **1:15pm <br> 2:45pm** | [Training: Ruby Methods (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views (BV)][7-4C] | [Bog App (BV)][7-5C]
-**3:00pm <br> 4:30pm** | [Training: Ruby Methods (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Rails Views (BV)][7-4D] | Bog App (BV)
+ **1:15pm <br> 2:45pm** | [Idiomatic Ruby (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views (BV)][7-4C] | [Bog App (BV)][7-5C]
+**3:00pm <br> 4:30pm** | [Training: Ruby Method Drills (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Rails Views (BV)][7-4D] | Bog App (BV)
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 [7-1A]: https://github.com/sf-wdi-31/ruby-methods "..."
 [7-1B]: https://github.com/sf-wdi-31/ruby-methods "..."
-[7-1C]: # "..."
-[7-1D]: # "..."
-[7-1E]: # "..."
+[7-1C]: https://github.com/sf-wdi-31/idiomatic-ruby "..."
+[7-1D]: https://github.com/sf-wdi-31/ruby_method_drills "..."
+[7-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#monday "..."
 
 [7-2A]: # "..."
 [7-2B]: # "..."
