@@ -15,7 +15,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
-1. Read through the [test code from this afternoon's go fish training](https://github.com/sf-wdi-31/go-fish-card-game). Using that example,  some [documentation for the basic structure of an rspec test](https://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/basic-structure-describe-it), and the structure of [expectations](http://www.relishapp.com/rspec/rspec-expectations/docs), come up with explanations for the following Rspec methods:  `describe`, `context`, `it`, `expect`.
+1. Read through the [test code](https://github.com/sf-wdi-31/go-fish-card-game) from this afternoon's go fish training. Using that example,  some [documentation for the basic structure of an rspec test](https://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/basic-structure-describe-it), and the structure of [expectations](http://www.relishapp.com/rspec/rspec-expectations/docs), come up with explanations for the following Rspec methods:  `describe`, `context`, `it`, `expect`.
 
 1. Tomorrow we begin using Ruby on Rails, a Ruby framework that will help us develop web applications!  First, check out [the Rails home page](http://guides.rubyonrails.org/getting_started.html). Spend 2 minutes clicking through the links in the nav bar and seeing where each goes.  
 
