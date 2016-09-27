@@ -21,7 +21,7 @@
 [7-2B]: https://github.com/sf-wdi-31/ruby-monster-oop "OO Ruby"
 [7-2C]: https://github.com/sf-wdi-31/ruby-monster-oop "OO Ruby"
 [7-2D]: https://github.com/sf-wdi-31/go-fish-card-game "Go Fish!"
-[7-2E]: # "..."
+[7-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#tuesday "..."
 
 [7-3A]: # "..."
 [7-3B]: # "..."
