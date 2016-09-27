@@ -41,7 +41,7 @@
 [7-5D]: # "..."
 [7-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
 
 
 #### Week 6 - Getting Acute with Angular
