@@ -16,7 +16,7 @@
 [7-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#monday "..."
 
 [7-2A]: # "..."
-[7-2B]: # "..."
+[7-2B]: https://github.com/sf-wdi-31/ruby-monster-oop "..."
 [7-2C]: # "..."
 [7-2D]: # "..."
 [7-2E]: # "..."
