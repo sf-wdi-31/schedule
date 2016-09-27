@@ -12,11 +12,21 @@ The evening trainings and readings below will help you solidify work so far and/
  
 2. If you have time after the reading, finish the <b>first 3 methods in each of the exercises</b> of this [training](https://github.com/sf-wdi-31/ruby_method_drills). This should only be complete after the OOP Reading.
 
-<!-- 
 
 ### Tuesday
 
+1. Tomorrow we begin using Ruby on Rails, a Ruby framework that will help us develop web applications!  First, check out [the Rails home page](http://guides.rubyonrails.org/getting_started.html). Spend 2 minutes clicking through the links in the nav bar and seeing where each goes.  
 
+1. As a new Rails developer, you'll spend a lot of time with the [Rails **API** documentation](http://api.rubyonrails.org/).  Read the "Welcome to Rails" section of the documentation home page. (Hold off on Getting Started, we'll do that next!) Pay special attention to the following question:
+  * What's the big deal about Models, Views, and Controllers?
+
+1. You should also take advantage of Rails's wonderful [Guides](http://guides.rubyonrails.org/). Please read and follow along with chapters 1-4 of the [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html). Pay special attention to the following questions:
+  * What are the guiding principles of Ruby on Rails?
+  * What does the terminal command `rails new blog` do?
+  * Spend 10-15 minutes exploring the directories and files Rails creates for you! For example, what do you think `app/views/layouts/application.html.erb` is doing for the project? How about `Gemfile`?
+
+
+<!-- 
 ### Wednesday
 
 
