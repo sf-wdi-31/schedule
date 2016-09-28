@@ -31,7 +31,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Wednesday
 
-1. Read and work through chapter 5 of the  [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html). You should end up with app that lets you do full CRUD on articles. If you didn't yesterday, create a GitHub repo for your getting started project so it's easy to reference later.  This is a *long* chapter - set aside plently of time to go through it. As you're working through it...
+1. Read and work through chapter 5 of the  [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html). **You should end up with app that lets you do full CRUD on articles. If you didn't yesterday, create a GitHub repo for your getting started project so it's easy to reference later.**This is a *long* chapter - set aside plently of time to go through it. As you're working through it...
 
 1. In your own words, answer the following questions about the **Model** part of Rails MVC. Reference the [ActiveRecord Rails Guide](http://guides.rubyonrails.org/active_record_basics.html) if you're not sure. 
     * What is a "resource"?
