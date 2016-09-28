@@ -1,5 +1,51 @@
 #WDI 31 Schedule
 
+
+#### Week 8 - Rails
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Migrations (CF)][8-1A] |  Outcomes (Neda) | [Library App (CF)][8-3A] | [Git Review (ML)][8-4A] | [Linked Lists (BV)][8-5A]
+ **10:45am <br> 12:15pm** | [Migrations (CF)][8-1B] | [Cookies & Sessions (CF)][8-2B] |  Library App (CF) | [Rails Review (BV)][8-4B] | Vagabond (ALL)
+ **1:15pm <br> 2:45pm** | [Associations (BV)][8-1C] |  [Authentication (BV)][8-2C] |  [Asset Pipeline (BV)][8-3C] | [Vagabond (CF)][8-4C] | Vagabond (ALL)
+**3:00pm <br> 4:30pm** | [Associations (BV)][8-1D] | [Library App (BV)][8-2D] |   [Asset Pipeline Poem (BV)][8-3D] | Vagabond | Vagabond (ALL)
+**Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | Vagabond
+
+[8-1A]: # "..."
+[8-1B]: # "..."
+[8-1C]: # "..."
+[8-1D]: # "..."
+[8-1E]: # "..."
+
+
+[8-2A]: # "..."
+[8-2B]: # "..."
+[8-2C]: # "..."
+[8-2D]: # "..."
+[8-2E]: # "..."
+
+[8-3A]: # "..."
+[8-3B]: # "..."
+[8-3C]: # "..."
+[8-3D]: # "..."
+[8-3E]: # "..."
+
+[8-4A]: # "..."
+[8-4B]: # "..."
+[8-4C]: # "..."
+[8-4D]: # "..."
+[8-4E]: # "..."
+
+[8-5A]: # "..."
+[8-5B]: # "..."
+[8-5C]: # "..."
+[8-5D]: # "..."
+[8-5E]: # "..."
+
+[Weekly Checklist](#)
+
+
+
 #### Week 7 - Ruby & Rails
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
