@@ -29,9 +29,25 @@ The evening trainings and readings below will help you solidify work so far and/
   * Spend 10-15 minutes exploring the directories and files Rails creates for you! For example, what do you think `app/views/layouts/application.html.erb` is doing for the project? How about `Gemfile`?
 
 
-<!-- 
 ### Wednesday
 
+1. Read and work through chapter 5 of the  [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html). This is a *long* chapter - set aside plently of time to go through it. As you're working through it:
+
+  1. In your own words, answer the following questions about the Model part of Rails MVC. Reference the [ActiveRecord Rails Guide](http://guides.rubyonrails.org/active_record_basics.html) if you're not sure. 
+    * What is a "resource"?
+    * What does it mean that ActiveRecord is an ORM framework?
+    * What is a migration? 
+    * How do we access a Rails model from a controller file?  It may help to look at model `app/models/article.rb` and controller `app/controllers/articles_controller.rb`.
+  
+  1. In your own words, answer the following questions about the View part of Rails MVC. Reference the [ActionView Overview Rails Guide](http://guides.rubyonrails.org/action_view_overview.html) if you're not sure. 
+    * Why do our HTML files have a `.erb` file extension? What is ERB, and what does it look like?
+    * Which of the Rails RESTFUL routes render HTML files?
+    * Why does Rails use the helper method `form_for` to create forms?
+    * How do we make data from the controller available in the view?
+
+
+
+<!-- 
 
 ### Thursday 
 
