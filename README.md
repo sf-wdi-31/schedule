@@ -27,7 +27,7 @@
 [7-3B]: # "..."
 [7-3C]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
 [7-3D]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
-[7-3E]: # "..."
+[7-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#wednesday "..."
 
 [7-4A]: # "..."
 [7-4B]: # "..."
