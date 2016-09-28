@@ -43,7 +43,6 @@ The evening trainings and readings below will help you solidify work so far and/
     * In Rails RESTFUL routes, the `index`, `show`, `new`, and `edit` routes render HTML files. What should a user see on each of these pages?
     * What is the difference between a "layout" template and a "partial" template? Give an example of when you've used each. 
     * Examine the HTML created by a `form_for` helper in your code. Why should we use `form_for` and helpers like `f.text_area` or `f.email_field` instead of writing Rails forms by hand?
-    * Examine the HTML created by a `link_to` helper in your code. Why should we use `link_to` and path or url helpers like `articles_path` and `article_url(@article)` instead of writing links by hand?
     * How do we make data from the controller available in the view?
 
 
