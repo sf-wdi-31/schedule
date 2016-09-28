@@ -23,7 +23,7 @@
 [7-2D]: https://github.com/sf-wdi-31/go-fish-card-game "Go Fish!"
 [7-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#tuesday "..."
 
-[7-3A]: # "..."
+[7-3A]: https://github.com/sf-wdi-31/rspec "..."
 [7-3B]: # "..."
 [7-3C]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
 [7-3D]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
