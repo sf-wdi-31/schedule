@@ -29,7 +29,7 @@
 [7-3D]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
 [7-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#wednesday "..."
 
-[7-4A]: # "..."
+[7-4A]: https://github.com/sf-wdi-31/active-record "Active Record"
 [7-4B]: # "..."
 [7-4C]: # "..."
 [7-4D]: # "..."
