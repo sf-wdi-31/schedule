@@ -30,7 +30,7 @@
 [7-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#wednesday "..."
 
 [7-4A]: https://github.com/sf-wdi-31/active-record "Active Record"
-[7-4B]: # "..."
+[7-4B]: https://github.com/sf-wdi-31/active-record "Active Record"
 [7-4C]: https://github.com/sf-wdi-31/rails-views-and-helpers "..."
 [7-4D]: https://github.com/sf-wdi-31/rails_views_helpers_training "..."
 [7-4E]: # "..."
@@ -41,7 +41,7 @@
 [7-5D]: # "..."
 [7-5E]: # "..."
 
-[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b) | 
+[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b) |
 [PWR-HR Flexbox](https://github.com/sf-wdi-31/ph-flexbox)
 
 
