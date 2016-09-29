@@ -41,7 +41,7 @@
 [7-5D]: # "..."
 [7-5E]: # "..."
 
-[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
+[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b) | 
 [PWR-HR Flexbox](https://github.com/sf-wdi-31/ph-flexbox)
 
 
