@@ -6,8 +6,8 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Ruby Methods (CF)][7-1A] |  Outcomes (Neda) | [TDD with Rspec (BV)][7-3A] | [Active Record (CF)][7-4A] | [Assessment (CF)][7-5A]
  **10:45am <br> 12:15pm** | [Ruby Methods (CF)][7-1B] | [Ruby OOP (BV)][7-2B] |  Continue Rspec (BV) | [Active Record (CF)][7-4B] | [Review (CF)][7-5B]
- **1:15pm <br> 2:45pm** | [Idiomatic Ruby (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views (BV)][7-4C] | [Bog App (BV)][7-5C]
-**3:00pm <br> 4:30pm** | [Training: Ruby Method Drills (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Rails Views (BV)][7-4D] | Bog App (BV)
+ **1:15pm <br> 2:45pm** | [Idiomatic Ruby (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views & Helpers (BV)][7-4C] | [Bog App (BV)][7-5C]
+**3:00pm <br> 4:30pm** | [Training: Ruby Method Drills (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Training: Rails Views & Helpers (BV)][7-4D] | Bog App (BV)
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
 [7-1A]: https://github.com/sf-wdi-31/ruby-methods "Ruby methods"
@@ -31,8 +31,8 @@
 
 [7-4A]: https://github.com/sf-wdi-31/active-record "Active Record"
 [7-4B]: # "..."
-[7-4C]: # "..."
-[7-4D]: # "..."
+[7-4C]: https://github.com/sf-wdi-31/rails-views-and-helpers "..."
+[7-4D]: https://github.com/sf-wdi-31/rails_views_helpers_training "..."
 [7-4E]: # "..."
 
 [7-5A]: # "..."
@@ -41,7 +41,8 @@
 [7-5D]: # "..."
 [7-5E]: # "..."
 
-[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
+[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b) | 
+[PWR-HR Flexbox](https://github.com/sf-wdi-31/ph-flexbox)
 
 
 #### Week 6 - Getting Acute with Angular
