@@ -33,7 +33,7 @@
 [7-4B]: https://github.com/sf-wdi-31/active-record "Active Record"
 [7-4C]: https://github.com/sf-wdi-31/rails-views-and-helpers "..."
 [7-4D]: https://github.com/sf-wdi-31/rails_views_helpers_training "..."
-[7-4E]: # "..."
+[7-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#thursday "Homework"
 
 [7-5A]: # "..."
 [7-5B]: # "..."
