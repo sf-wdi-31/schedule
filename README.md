@@ -11,7 +11,7 @@
 **3:00pm <br> 4:30pm** | [Associations (BV)][8-1D] | [Library App (BV)][8-2D] |   [Asset Pipeline Poem (BV)][8-3D] | Vagabond | Vagabond (ALL)
 **Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | Vagabond
 
-[8-1A]: # "..."
+[8-1A]: https://github.com/sf-wdi-31/migrations "Migrations"
 [8-1B]: # "..."
 [8-1C]: # "..."
 [8-1D]: # "..."
