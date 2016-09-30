@@ -5,10 +5,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Migrations (CF)][8-1A] |  Outcomes (Neda) | [Library App (CF)][8-3A] | [Git Review (ML)][8-4A] | [Linked Lists (BV)][8-5A]
- **10:45am <br> 12:15pm** | [Migrations (CF)][8-1B] | [Cookies & Sessions (CF)][8-2B] |  Library App (CF) | [Rails Review (BV)][8-4B] | Vagabond (ALL)
- **1:15pm <br> 2:45pm** | [Associations (BV)][8-1C] |  [Authentication (BV)][8-2C] |  [Asset Pipeline (BV)][8-3C] | [Vagabond (CF)][8-4C] | Vagabond (ALL)
-**3:00pm <br> 4:30pm** | [Associations (BV)][8-1D] | [Library App (BV)][8-2D] |   [Asset Pipeline Poem (BV)][8-3D] | Vagabond | Vagabond (ALL)
+ **9:00am <br> 10:30am** | [Migrations (Guest)][8-1A] |  Outcomes (Neda) | [Library App (CF)][8-3A] | [Git Review (ML)][8-4A] | [Linked Lists (BV)][8-5A]
+ **10:45am <br> 12:15pm** | [Migrations (Guest)][8-1B] | [Cookies & Sessions (CF)][8-2B] |  Library App (CF) | [Rails Review (BV)][8-4B] | Vagabond (ALL)
+ **1:15pm <br> 2:45pm** | [Associations (BV)][8-1C] |  [Authentication (BV)][8-2C] |  [Asset Pipeline (Guest)][8-3C] | [Vagabond (CF)][8-4C] | Vagabond (ALL)
+**3:00pm <br> 4:30pm** | [Associations (BV)][8-1D] | [Library App (BV)][8-2D] |   [Asset Pipeline (Guest)][8-3D] | Vagabond | Vagabond (ALL)
 **Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | Vagabond
 
 [8-1A]: https://github.com/sf-wdi-31/migrations "Migrations"
