@@ -54,7 +54,7 @@ The evening trainings and readings below will help you solidify work so far and/
 1. Tomorrow we will be reviewing the Rails material so far. Review the objectives from the week and any materials you feel you might need to review. Revisit any Rails guides on topics that you're still unsure about.
 1. Come to class with three questions about the week's materials.
 
-<!--
 ### Weekend
 
--->
+Follow the instructions in the [Rails Bog App](https://github.com/sf-wdi-31/rails-bog-app)!
+
