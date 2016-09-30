@@ -36,7 +36,7 @@
 [7-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#thursday "Homework"
 
 [7-5A]: # "..."
-[7-5B]: # "..."
+[7-5B]: https://github.com/sf-wdi-31/make-a-gist "Make a gist review"
 [7-5C]: # "..."
 [7-5D]: # "..."
 [7-5E]: # "..."
