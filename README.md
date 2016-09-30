@@ -37,7 +37,7 @@
 
 [7-5A]: https://docs.google.com/document/d/1KL3dtOHx0HYhwfQxzDKUEiRanAc83KM0nsdBKmXEksE/edit?usp=sharing "Solutions"
 [7-5B]: https://github.com/sf-wdi-31/make-a-gist "Make a gist review"
-[7-5C]: # "..."
+[7-5C]: https://github.com/sf-wdi-31/rails-bog-app "..."
 [7-5D]: # "..."
 [7-5E]: # "..."
 
