@@ -12,7 +12,7 @@
 **Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | Vagabond
 
 [8-1A]: https://github.com/sf-wdi-31/migrations "Migrations"
-[8-1B]: # "..."
+[8-1B]: https://github.com/sf-wdi-31/guest-repo-1 "Migrations Activity"
 [8-1C]: # "..."
 [8-1D]: # "..."
 [8-1E]: # "..."
