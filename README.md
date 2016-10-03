@@ -44,7 +44,7 @@
 
 [Weekly Checklist](#)
 
-[Pwr-Hr: Error-Handling and Validations](https://github.com/sf-wdi-31/rails-validations-errors)
+[Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
 
 
 #### Week 7 - Ruby & Rails
