@@ -15,7 +15,7 @@
 [8-1B]: https://github.com/sf-wdi-31/guest-repo-1 "Migrations Activity"
 [8-1C]: https://github.com/sf-wdi-31/rails-associations "Associations"
 [8-1D]: https://github.com/sf-wdi-31/rails-pet-lab "Association Lab"
-[8-1E]: # "..."
+[8-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-8-training.md#monday "Monday HW"
 
 
 [8-2A]: # "..."
