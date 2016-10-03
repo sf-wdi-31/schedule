@@ -1,4 +1,4 @@
-# Week 7 Training
+# Week 8 Training
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
