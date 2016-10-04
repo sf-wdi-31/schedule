@@ -5,10 +5,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [DRILL][9-1A] |  Outcomes (Neda) | [DRILL][9-3A] | Lightning Talks | [DRILL][9-5A]
- **10:45am <br> 12:15pm** | Vagabond | Vagabond |  Vagabond | [Project 2 Pitches][9-4B] | [Project 2][9-5B]
- **1:15pm <br> 2:45pm** | Vagabond |  Vagabond |  Vagabond Presentations | [Project 2][9-4C] | Project 2
-**3:00pm <br> 4:30pm** | Vagabond | Vagabond |  Prep Lightning Talks | Project 2 | Project 2
+ **9:00am <br> 10:30am** | [Stacks (CF)][9-1A] |  Outcomes (Neda) | [Queues (CF)][9-3A] | Lightning Talks (BV) | [Hashmaps (BV)][9-5A]
+ **10:45am <br> 12:15pm** | Vagabond (CF) | Vagabond (BV) |  Vagabond (CF) | [Project 2 Pitches (ALL)][9-4B] | Project 2 (BV)
+ **1:15pm <br> 2:45pm** | Vagabond (BV) |  Vagabond (CF) |  Vagabond Presentations (ALL) | [Project 2 (BV)][9-4C] | Project 2 (CF)
+**3:00pm <br> 4:30pm** | Vagabond (BV) | Vagabond (CF) |  Prep Lightning Talks (ML) | Project 2 (BV) | Project 2 (CF)
 **Evening** | Vagabond  |  Vagabond |  [Training][9-3E] | Project 2 | Project 2
 
 [9-1A]: # "..."
