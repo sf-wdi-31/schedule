@@ -42,7 +42,7 @@
 [8-5D]: # "..."
 [8-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/bgveenstra/c51108a0e8721397a513d192317e15d6)
 
 [Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
 
