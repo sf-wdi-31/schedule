@@ -22,7 +22,7 @@
 [8-2B]: https://github.com/sf-wdi-31/cookies-sessions "cookies and sessions"
 [8-2C]: https://github.com/sf-wdi-31/rails-auth "..."
 [8-2D]: https://github.com/sf-wdi-31/public-library-app "..."
-[8-2E]: # "..."
+[8-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-8-training.md#tuesday "Tuesday HW"
 
 [8-3A]: # "..."
 [8-3B]: # "..."
