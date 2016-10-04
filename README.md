@@ -19,7 +19,7 @@
 
 
 [8-2A]: # "..."
-[8-2B]: # "..."
+[8-2B]: https://github.com/sf-wdi-31/cookies-sessions "cookies and sessions"
 [8-2C]: # "..."
 [8-2D]: # "..."
 [8-2E]: # "..."
