@@ -8,7 +8,7 @@ Continue work on the [pet app](https://github.com/sf-wdi-31/rails-pet-lab). Afte
 
 ### Tuesday
 
-1. Complete part 1 of the [library app training](https://github.com/sf-wdi-31/public-library-app/blob/master/1_users_and_auth.md), including the practice. Make sure to read through the [solution code](https://github.com/sf-wdi-31/public-library-app/tree/solution_1_users_and_auth/lib_app) and study any parts that gave you difficulty. If you have time, work on the bonuses.
+1. Complete part 1 of the [library app training](https://github.com/sf-wdi-31/public-library-app/blob/master/1_users_and_auth.md), including the practice (making another app). Make sure to read through the [solution code](https://github.com/sf-wdi-31/public-library-app/tree/solution_1_users_and_auth/lib_app) and study any parts that gave you difficulty. If you have time, work on the bonuses.
 
 2. In preparation for tomorrow afternoon, read the [asset pipeline rails guide](http://guides.rubyonrails.org/asset_pipeline.html), sections 1 and 2.
 
