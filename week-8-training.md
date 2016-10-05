@@ -15,14 +15,14 @@ Continue work on the [pet app](https://github.com/sf-wdi-31/rails-pet-lab). Afte
 
 ### Wednesday
 
-1. Finish the [asset pipeline poem](https://github.com/sf-wdi-31/rails-asset-pipeline-poem) and the ["Take it Further" exercises from this afternoon](https://github.com/sf-wdi-31/rails-asset-pipeline/blob/master/exercises.md).  When you're finished, update the readme on the master branch of your asset pipeline poem fork. Add an intro section that has 3-5 sentences of reflection on your experience with this project.  Then, also link this repo on the "My Work" section of your personal website. 
+1. Finish the [asset pipeline poem](https://github.com/sf-wdi-31/rails-asset-pipeline-poem) and the ["Take it Further" exercises from this afternoon](https://github.com/sf-wdi-31/rails-asset-pipeline/blob/master/exercises.md).  When you're finished, update the readme on the master branch of your asset pipeline poem fork. Add an intro section that has 3-5 sentences of reflection on your experience with this project(e.g., what did you learn? how will you use these tools again later?).  Then, also link this repo on the "My Work" section of your personal website. 
 
 2. Complete part 2 of the [public library app](https://github.com/sf-wdi-31/public-library-app).  Also choose at least one **bonus** to implement from:
   - [part 1](https://github.com/sf-wdi-31/public-library-app/blob/master/1_users_and_auth.md#bonus) (authorization & validation)
   - [middle of part 2](https://github.com/sf-wdi-31/public-library-app/blob/master/2_library_users.md#cruding-libraries) (CRUD libraries), or  
   - [end of part 2](https://github.com/sf-wdi-31/public-library-app/blob/master/2_library_users.md#bonuses) (add books - larger scope)
   
-  When you're finished, update your project repo so the readme starts with a 3-5 sentence reflection on doing this project (what did you learn? how will you use these tools again later?).  Then, link your repo on the "My Work" section of your personal website. 
+  When you're finished, update your project repo so the readme starts with a 3-5 sentence reflection on doing this project.  Then, link your repo on the "My Work" section of your personal website. 
   
 3. Follow heroku docs (linked in [auth power hour resources](https://github.com/sf-wdi-31/pwr-hr-auth#resources)) to deploy your library app to heroku. Make sure you're starting with a version of you library app that's working locally.  Remember to communicate about any issues on Slack. Don't spend more than an hour debugging a deploy. If you do get deployed, update your GitHub readme with a link to the live app! 
 
