@@ -12,9 +12,16 @@ Continue work on the [pet app](https://github.com/sf-wdi-31/rails-pet-lab). Afte
 
 2. In preparation for tomorrow afternoon, read the [asset pipeline rails guide](http://guides.rubyonrails.org/asset_pipeline.html), sections 1 and 2.
 
-<!--
+
 ### Wednesday
 
+1. Complete part 2 of the [public library app](https://github.com/sf-wdi-31/public-library-app).  Also choose at least one bonus from part 1 or part 2 to implement tonight.  (Note that the part 2 bonuses are larger in scope.) When you're finished, update your project repo so the readme starts with a 3-5 sentence reflection on doing this project (what did you learn? how will you use these tools again later?).  Then, link your repo on the "My Work" section of your personal website. 
+
+2. Finish the [asset pipeline poem](https://github.com/sf-wdi-31/rails-asset-pipeline-poem) and the ["Take it Further" exercises from this afternoon](https://github.com/sf-wdi-31/rails-asset-pipeline/blob/master/exercises.md).  When you're finished, update the readme on the master branch of your asset pipeline poem fork. Add an intro section that has 3-5 sentences of reflection on your experience with this project.  Then, also link this repo on the "My Work" section of your personal website. 
+
+3. Review the learning objectives from this week. Identify an at least one question you have, one area where you'd like more practice, and one area where you're feeling confident.  Write all of these down to bring with you tomorrow. 
+
+<!--
 ### Thursday
 
 ### Weekend -->
