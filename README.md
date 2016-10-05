@@ -46,6 +46,8 @@
 
 [Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
 
+[Pwr-Hr: Auth Review (ML)](https://github.com/sf-wdi-31/pwr-hr-auth)
+
 
 #### Week 7 - Ruby & Rails
 
