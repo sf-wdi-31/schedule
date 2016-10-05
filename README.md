@@ -28,7 +28,7 @@
 [8-3B]: # "..."
 [8-3C]: https://github.com/sf-wdi-31/rails-asset-pipeline
 [8-3D]: # "..."
-[8-3E]: # "..."
+[8-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-8-training.md#wednesday "Wednesday HW"
 
 [8-4A]: https://github.com/sf-wdi-31/git-collaboration
 [8-4B]: # "..."
