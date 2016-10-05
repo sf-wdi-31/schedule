@@ -26,7 +26,7 @@
 
 [8-3A]: https://github.com/sf-wdi-31/public-library-app/blob/master/2_library_users.md "Library app part 2"
 [8-3B]: # "..."
-[8-3C]: "https://github.com/sf-wdi-31/rails-asset-pipeline"
+[8-3C]: https://github.com/sf-wdi-31/rails-asset-pipeline
 [8-3D]: # "..."
 [8-3E]: # "..."
 
