@@ -32,7 +32,7 @@
 
 [8-4A]: https://github.com/sf-wdi-31/git-collaboration
 [8-4B]: # "..."
-[8-4C]: # "..."
+[8-4C]: https://github.com/sf-wdi-31/project-vagabond "Project Vagabond"
 [8-4D]: # "..."
 [8-4E]: # "..."
 
