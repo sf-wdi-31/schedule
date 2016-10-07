@@ -9,7 +9,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * Try things out! Would it break if I do `car[color]`?  
   * If you're not feeling cars, create an entirely different class following the same examples (plants? phones? baseball players?)!  **Following along in code is a great strategy for reading docs on unfamiliar topics!**  
   * If you want to split this longer reading up a little, good break points are before "Inheritance" and before "Modules".
- 
+
 2. If you have time after the reading, finish the <b>first 3 methods in each of the exercises</b> of this [training](https://github.com/sf-wdi-31/ruby_method_drills). This should only be complete after the OOP Reading.
 
 
@@ -33,24 +33,28 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Read and work through chapter 5 of the  [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html). **You should end up with app that lets you do full CRUD on articles. If you didn't yesterday, create a GitHub repo for your getting started project so it's easy to reference later.**This is a *long* chapter - set aside plently of time to go through it. As you're working through it...
 
-1. In your own words, answer the following questions about the **Model** part of Rails MVC. Reference the [ActiveRecord Rails Guide](http://guides.rubyonrails.org/active_record_basics.html) if you're not sure. 
+1. In your own words, answer the following questions about the **Model** part of Rails MVC. Reference the [ActiveRecord Rails Guide](http://guides.rubyonrails.org/active_record_basics.html) if you're not sure.
     * What is a "resource"?
     * What does it mean that ActiveRecord is an ORM framework?
     * What is a migration? How is it related to the app's database schema (`db/schema.rb`)?
     * What are some methods we can use to CRUD resources for a model, from inside a controller file?  It may help to look at controller `app/controllers/articles_controller.rb`, and section 5 of the ActiveRecord guide.
-  
-1. In your own words, answer the following questions about the **View** part of Rails MVC. Reference the [ActionView Overview Rails Guide](http://guides.rubyonrails.org/action_view_overview.html) if you're not sure. 
+
+1. In your own words, answer the following questions about the **View** part of Rails MVC. Reference the [ActionView Overview Rails Guide](http://guides.rubyonrails.org/action_view_overview.html) if you're not sure.
     * In Rails RESTFUL routes, the `index`, `show`, `new`, and `edit` routes render HTML files. What should a user see on each of these pages?
-    * What is the difference between a "layout" template and a "partial" template? Give an example of when you've used each. 
+    * What is the difference between a "layout" template and a "partial" template? Give an example of when you've used each.
     * Examine the HTML created by a `form_for` helper in your code. Why should we use `form_for` and helpers like `f.text_area` or `f.email_field` instead of writing Rails forms by hand?
     * How do we make data from the controller available in the view?
 
 
 
-<!-- 
 
-### Thursday 
+### Thursday
+
+1. Tonight, refactor [this application](https://github.com/sf-wdi-31/rails_views_helpers_training) to include partials, view helpers, and path prefixes. For more details, follow the instructions in that lab's readme.
+1. Tomorrow we will be reviewing the Rails material so far. Review the objectives from the week and any materials you feel you might need to review. Revisit any Rails guides on topics that you're still unsure about.
+1. Come to class with three questions about the week's materials.
 
 ### Weekend
 
--->
+Follow the instructions in the [Rails Bog App](https://github.com/sf-wdi-31/rails-bog-app)!
+

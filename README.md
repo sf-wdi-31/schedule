@@ -1,6 +1,5 @@
 #WDI 31 Schedule
 
-
 #### Week 9 - Rails Projects
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
@@ -45,6 +44,54 @@
 [Weekly Checklist](#)
 
 
+#### Week 8 - Rails
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Migrations (CF/Guest)][8-1A] |  Outcomes (Neda) | [Library App (CF)][8-3A] | [Git Review (ML)][8-4A] | [Linked Lists (BV)][8-5A]
+ **10:45am <br> 12:15pm** | [Migrations (CF/Guest)][8-1B] | [Cookies & Sessions (CF)][8-2B] |  Library App (CF) | [Rails Review (BV)][8-4B] | Vagabond (ALL)
+ **1:15pm <br> 2:45pm** | [Associations (BV)][8-1C] |  [Authentication (BV)][8-2C] |  [Asset Pipeline (BV/Guest)][8-3C] | [Vagabond (CF)][8-4C] | Vagabond (ALL)
+**3:00pm <br> 4:30pm** | [Training: Associations (BV)][8-1D] | [Library App (BV)][8-2D] |   [Asset Pipeline (BV/Guest)][8-3D] | Vagabond | Vagabond (ALL)
+**Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | Vagabond
+
+[8-1A]: https://github.com/sf-wdi-31/migrations "Migrations"
+[8-1B]: https://github.com/sf-wdi-31/guest-repo-1 "Migrations Activity"
+[8-1C]: https://github.com/sf-wdi-31/rails-associations "Associations"
+[8-1D]: https://github.com/sf-wdi-31/rails-pet-lab "Association Lab"
+[8-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-8-training.md#monday "Monday HW"
+
+
+[8-2A]: # "..."
+[8-2B]: https://github.com/sf-wdi-31/cookies-sessions "cookies and sessions"
+[8-2C]: https://github.com/sf-wdi-31/rails-auth "Rails Auth"
+[8-2D]: https://github.com/sf-wdi-31/public-library-app "Library app"
+[8-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-8-training.md#tuesday "Tuesday HW"
+
+[8-3A]: https://github.com/sf-wdi-31/public-library-app/blob/master/2_library_users.md "Library app part 2"
+[8-3B]: # "..."
+[8-3C]: https://github.com/sf-wdi-31/rails-asset-pipeline
+[8-3D]: # "..."
+[8-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-8-training.md#wednesday "Wednesday HW"
+
+[8-4A]: https://github.com/sf-wdi-31/git-collaboration
+[8-4B]: # "..."
+[8-4C]: https://github.com/sf-wdi-31/project-vagabond "Project Vagabond"
+[8-4D]: # "..."
+[8-4E]: # "..."
+
+[8-5A]: https://github.com/sf-wdi-31/ruby-linked-list "..."
+[8-5B]: # "..."
+[8-5C]: # "..."
+[8-5D]: # "..."
+[8-5E]: # "..."
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/c51108a0e8721397a513d192317e15d6)
+
+[Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
+
+[Pwr-Hr: Auth Review (ML)](https://github.com/sf-wdi-31/pwr-hr-auth)
+
+
 
 #### Week 7 - Ruby & Rails
 
@@ -52,9 +99,9 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Ruby Methods (CF)][7-1A] |  Outcomes (Neda) | [TDD with Rspec (BV)][7-3A] | [Active Record (CF)][7-4A] | [Assessment (CF)][7-5A]
  **10:45am <br> 12:15pm** | [Ruby Methods (CF)][7-1B] | [Ruby OOP (BV)][7-2B] |  Continue Rspec (BV) | [Active Record (CF)][7-4B] | [Review (CF)][7-5B]
- **1:15pm <br> 2:45pm** | [Idiomatic Ruby (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views (BV)][7-4C] | [Bog App (BV)][7-5C]
-**3:00pm <br> 4:30pm** | [Training: Ruby Method Drills (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Rails Views (BV)][7-4D] | Bog App (BV)
-**Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
+ **1:15pm <br> 2:45pm** | [Idiomatic Ruby (BV)][7-1C] |  [Ruby OOP (CF)][7-2C] |  [Rails Intro (CF)][7-3C] | [Rails Views & Helpers (BV)][7-4C] | [Bog App (BV)][7-5C]
+**3:00pm <br> 4:30pm** | [Training: Ruby Method Drills (BV)][7-1D] | [Ruby OOP (CF)][7-2D] |   [Rails Intro (CF)][7-3D] | [Training: Rails Views & Helpers (BV)][7-4D] | Bog App (BV)
+**Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | Bog App
 
 [7-1A]: https://github.com/sf-wdi-31/ruby-methods "Ruby methods"
 [7-1B]: https://github.com/sf-wdi-31/ruby-methods "Ruby methods"
@@ -75,19 +122,21 @@
 [7-3D]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
 [7-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#wednesday "..."
 
-[7-4A]: # "..."
-[7-4B]: # "..."
-[7-4C]: # "..."
-[7-4D]: # "..."
-[7-4E]: # "..."
+[7-4A]: https://github.com/sf-wdi-31/active-record "Active Record"
+[7-4B]: https://github.com/sf-wdi-31/active-record "Active Record"
+[7-4C]: https://github.com/sf-wdi-31/rails-views-and-helpers "..."
+[7-4D]: https://github.com/sf-wdi-31/rails_views_helpers_training "..."
+[7-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#thursday "Homework"
 
-[7-5A]: # "..."
-[7-5B]: # "..."
-[7-5C]: # "..."
+[7-5A]: https://docs.google.com/document/d/1KL3dtOHx0HYhwfQxzDKUEiRanAc83KM0nsdBKmXEksE/edit?usp=sharing "Solutions"
+[7-5B]: https://github.com/sf-wdi-31/make-a-gist "Make a gist review"
+[7-5C]: https://github.com/sf-wdi-31/rails-bog-app "..."
 [7-5D]: # "..."
 [7-5E]: # "..."
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
+
+[PWR-HR Flexbox (ML)](https://github.com/sf-wdi-31/ph-flexbox)
 
 
 #### Week 6 - Getting Acute with Angular
