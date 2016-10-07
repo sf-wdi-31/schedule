@@ -34,7 +34,6 @@ With extra time, you could:
  - try challenge 3 of the [JavaScript in Rails](https://github.com/sf-wdi-31/js-in-rails) exercise
  
 
-<!--
-### Thursday
+### Thursday & Weekend 
 
-### Weekend -->
+Continue Vagabond!
