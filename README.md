@@ -1,5 +1,48 @@
 #WDI 31 Schedule
 
+#### Week 9 - Rails Projects
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Stacks (CF)][9-1A] |  Outcomes (Neda) | [Queues (CF)][9-3A] | Lightning Talks (BV) | [Hashmaps (BV)][9-5A]
+ **10:45am <br> 12:15pm** | Vagabond (CF) | Vagabond (BV) |  Vagabond (CF) | [Project 2 Pitches (ALL)][9-4B] | Project 2 (BV)
+ **1:15pm <br> 2:45pm** | Vagabond (BV) |  Vagabond (CF) |  Vagabond Presentations (ALL) | [Project 2 (BV)][9-4C] | Project 2 (CF)
+**3:00pm <br> 4:30pm** | Vagabond (BV) | Vagabond (CF) |  Prep Lightning Talks (ML) | Project 2 (BV) | Project 2 (CF)
+**Evening** | Vagabond  |  Vagabond |  [Training][9-3E] | Project 2 | Project 2
+
+[9-1A]: # "..."
+[9-1B]: # "..."
+[9-1C]: # "..."
+[9-1D]: # "..."
+[9-1E]: # "..."
+
+
+[9-2A]: # "..."
+[9-2B]: # "..."
+[9-2C]: # "..."
+[9-2D]: # "..."
+[9-2E]: # "..."
+
+[9-3A]: # "..."
+[9-3B]: # "..."
+[9-3C]: # "..."
+[9-3D]: # "..."
+[9-3E]: # "..."
+
+[9-4A]: # "..."
+[9-4B]: # "..."
+[9-4C]: # "..."
+[9-4D]: # "..."
+[9-4E]: # "..."
+
+[9-5A]: # "..."
+[9-5B]: # "..."
+[9-5C]: # "..."
+[9-5D]: # "..."
+[9-5E]: # "..."
+
+[Weekly Checklist](#)
+
 
 #### Week 8 - Rails
 
@@ -47,6 +90,7 @@
 [Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
 
 [Pwr-Hr: Auth Review (ML)](https://github.com/sf-wdi-31/pwr-hr-auth)
+
 
 
 #### Week 7 - Ruby & Rails
