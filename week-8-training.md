@@ -36,4 +36,4 @@ With extra time, you could:
 
 ### Thursday & Weekend 
 
-Continue Vagabond!
+Continue Vagabond!  
