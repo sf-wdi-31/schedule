@@ -10,7 +10,7 @@
 **3:00pm <br> 4:30pm** | Vagabond (BV) | Vagabond (CF) |  Prep Lightning Talks (ML) | Project 2 (BV) | Project 2 (CF)
 **Evening** | Vagabond  |  Vagabond |  [Training][9-3E] | Project 2 | Project 2
 
-[9-1A]: # "..."
+[9-1A]: https://github.com/sf-wdi-31/stacks "stacks"
 [9-1B]: # "..."
 [9-1C]: # "..."
 [9-1D]: # "..."
