@@ -1,5 +1,48 @@
 #WDI 31 Schedule
 
+#### Week 10 - Project 2!
+
+Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [Graphs and Trees ][10-1A] |  Outcomes (Neda) | [Trees - Depth First Search][10-3A] |  [Trees - Breadth First Search][10-4A] | [Debugging lab][10-5A]
+**10:45am <br> 12:15pm** | Project 2 (CF) | Project 2 (BV) |  Project 2 (CF) | [Project 2 (ALL)][10-4B] | Debugging lab
+**1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF) | Project 2 | Project 2 Presentations (ALL) |  React and Webpack
+**3:00pm <br> 4:30pm** | Project 2 (BV) | Project 2 (CF) | Project 2 | Project 2 Presentations (BV) | React/Webpack Lab OR polish your portfolio site
+**Evening** | Project 2  |  Project 2 |  [Project 2][10-3E] | Project 2 | Update portfolio and lightning talk prep
+
+[10-1A]: https://github.com/sf-wdi-31/stacks "stacks"
+[10-1B]: # "..."
+[10-1C]: # "..."
+[10-1D]: # "..."
+[10-1E]: # "..."
+
+
+[10-2A]: # "..."
+[10-2B]: # "..."
+[10-2C]: # "..."
+[10-2D]: # "..."
+[10-2E]: # "..."
+
+[10-3A]: # "..."
+[10-3B]: # "..."
+[10-3C]: # "..."
+[10-3D]: # "..."
+[10-3E]: # "..."
+
+[10-4A]: # "..."
+[10-4B]: # "..."
+[10-4C]: # "..."
+[10-4D]: # "..."
+[10-4E]: # "..."
+
+[10-5A]: # "..."
+[10-5B]: # "..."
+[10-5C]: # "..."
+[10-5D]: # "..."
+[10-5E]: # "..."
+
+[Weekly Checklist](#)
+
 #### Week 9 - Rails Projects
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
