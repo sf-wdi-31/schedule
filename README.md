@@ -4,11 +4,11 @@
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | [Graphs and Trees ][10-1A] |  Outcomes (Neda) | [Trees - Depth First Search][10-3A] |  [Trees - Breadth First Search][10-4A] | [Debugging lab][10-5A]
-**10:45am <br> 12:15pm** | Project 2 (CF) | Project 2 (BV) |  Project 2 (CF) | [Project 2 (ALL)][10-4B] | Debugging lab
-**1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF) | Project 2 | Project 2 Presentations (ALL) |  React and Webpack
-**3:00pm <br> 4:30pm** | Project 2 (BV) | Project 2 (CF) | Project 2 | Project 2 Presentations (BV) | React/Webpack Lab OR polish your portfolio site
-**Evening** | Project 2  |  Project 2 |  [Project 2][10-3E] | Project 2 | Update portfolio and lightning talk prep
+**9:00am <br> 10:30am** | [Graphs and Trees (CF) ][10-1A] |  Outcomes (Neda) | [Trees - Depth First Search (BV)][10-3A] |  [Trees - Breadth First Search (BV)][10-4A] | [Debugging lab (CF)][10-5A]
+**10:45am <br> 12:15pm** | Project 2 (CF) | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
+**1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  React and Webpack (ML)
+**3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | React/Webpack Lab OR polish your portfolio site (ML)
+**Evening** | Project 2  |  Project 2 |  [Project 2][10-3E] | Rest! | Update portfolio and lightning talk prep
 
 [10-1A]: https://github.com/sf-wdi-31/stacks "stacks"
 [10-1B]: # "..."
