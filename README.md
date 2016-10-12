@@ -7,7 +7,7 @@
  **9:00am <br> 10:30am** | [Stacks (CF)][9-1A] |  Outcomes (Neda) | [Queues (CF)][9-3A] | Lightning Talks (BV) | [Hashmaps (BV)][9-5A]
  **10:45am <br> 12:15pm** | Vagabond (CF) | Vagabond (BV) |  Vagabond (CF) | [Project 2 Pitches (ALL)][9-4B] | Project 2 (BV)
  **1:15pm <br> 2:45pm** | Vagabond (BV) |  Vagabond (CF) |  Vagabond Presentations (ALL) | [Project 2 (BV)][9-4C] | Project 2 (CF)
-**3:00pm <br> 4:30pm** | Vagabond (BV) | Vagabond (CF) |  Prep Lightning Talks (ML) | Project 2 (BV) | Project 2 (CF)
+**3:00pm <br> 4:30pm** | Vagabond (BV) | Vagabond (CF) |  Prep Lightning Talks (ML)[9-3D] | Project 2 (BV) | Project 2 (CF)
 **Evening** | Vagabond  |  Vagabond |  [Training][9-3E] | Project 2 | Project 2
 
 [9-1A]: https://github.com/sf-wdi-31/stacks "stacks"
@@ -26,7 +26,7 @@
 [9-3A]: https://github.com/sf-wdi-31/queues "QUEUES!"
 [9-3B]: # "..."
 [9-3C]: # "..."
-[9-3D]: # "..."
+[9-3D]: https://github.com/sf-wdi-31/ruby-lightning-talks "Lighting Talk!"
 [9-3E]: # "..."
 
 [9-4A]: # "..."
