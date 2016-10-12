@@ -27,7 +27,7 @@
 [9-3B]: # "..."
 [9-3C]: # "..."
 [9-3D]: https://github.com/sf-wdi-31/ruby-lightning-talks "Lighting Talk!"
-[9-3E]: # "..."
+[9-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-9-training.md#wednesday "..."
 
 [9-4A]: # "..."
 [9-4B]: # "..."
