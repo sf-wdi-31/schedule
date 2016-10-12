@@ -41,7 +41,7 @@
 [9-5D]: # "..."
 [9-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/cofauver/b67ba37fdfa0a8d83d8d16caf9fd2b90)
 
 
 #### Week 8 - Rails
