@@ -10,8 +10,16 @@ Continue Vagabond!
 
 Continue Vagabond!  There's a feature freeze in effect, so focus on documentation, presentation, user experience tweaks, and/or polishing your code. 
 
-<!-- ### Wednesday
+### Wednesday
 
+1. Fill out the [vagabond peer feedback form](https://goo.gl/forms/i907oohHpJvnl3ga2).
+
+1. Prepare your [project 2 pitch](https://github.com/sf-wdi-31/project-2/blob/master/lightning-pitch.md) - you can refer to the [project 2 specs](https://github.com/sf-wdi-31/project-2).
+
+1. Prepare your [lightning talk](https://github.com/sf-wdi-31/ruby-lightning-talks).
+
+
+<!-- 
 1. Finish challenge 2 of the [JavaScript in Rails](https://github.com/sf-wdi-31/js-in-rails) exercise. Yee-haw!
 
 2. Finish the [asset pipeline poem](https://github.com/sf-wdi-31/rails-asset-pipeline-poem).  When you're finished, update the readme on the master branch of your asset pipeline poem fork. Add an intro section that has 3-5 sentences of reflection on your experience with the asset pipeline (e.g., what did you learn? how will you use these tools again later?).  Then, also link this repo on the "My Work" section of your personal website. 
