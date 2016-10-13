@@ -30,8 +30,8 @@
 [9-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-9-training.md#wednesday "..."
 
 [9-4A]: # "..."
-[9-4B]: # "..."
-[9-4C]: # "..."
+[9-4B]: https://github.com/sf-wdi-31/project-2/blob/master/lightning-pitch.md "..."
+[9-4C]: https://github.com/sf-wdi-31/project-2 "..."
 [9-4D]: # "..."
 [9-4E]: # "..."
 
