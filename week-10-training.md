@@ -12,7 +12,6 @@ Project 2!
 ### Wednesday
 
 
-
 ### Thursday
 
 
