@@ -5,10 +5,10 @@
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 10:30am** | [ stuff ][12-1A] |  Outcomes (Neda) | [stuff][12-3A] |  [sftuff][12-4A] | [Wrap-Up][12-5A]
-**10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3 (BV)  | Project 3 (BV)  | Wrap-Up (CF)
-**1:15pm <br> 2:45pm** | Express Auth with Passport (BV) |  Project 3 (CF)  | Project 3 (CF) | Project 3 Presentations (ALL) | go into the world
-**3:00pm <br> 4:30pm** | Project 3 (BV)  | Project 3 (CF)  | Project 3 (CF) | Project 3 Presentations (ALL) | code things
-**Evening** | Project 3  |  Project 3 |  [Project 3][12-3E] | Graduation | you are developers
+**10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3  | Project 3   | Wrap-Up 
+**1:15pm <br> 2:45pm** | Project 3 |  Project 3  | Project 3 | Project 3 Presentations  | go into the world
+**3:00pm <br> 4:30pm** | Project 3  | Project 3  | Project 3 | Project 3 Presentations  | code things
+**Evening** | Project 3  |  Project 3 |  Project 3 | Graduation | you are developers
 
 Friday 
 
