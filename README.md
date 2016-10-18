@@ -1,16 +1,14 @@
 #WDI 31 Schedule
 
-#WDI 31 Schedule
-
 #### Week 12 - Project 3!
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | [  ][12-1A] |  Outcomes (Neda) | [Trees - Breadth First Search (BV)][12-3A] |  [Trees - Depth First Search (BV)][12-4A] | [Debugging lab (CF)][12-5A]
-**10:45am <br> 12:15pm** | MEAN Review | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
-**1:15pm <br> 2:45pm** | Express Auth with Passport (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  React and Build Tools (ML)
-**3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | React Lab OR polish your portfolio site (ML)
-**Evening** | Project 2  |  Project 2 |  [Project 2][12-3E] | Rest! | Update portfolio and lightning talk prep
+**9:00am <br> 10:30am** | [ stuff ][12-1A] |  Outcomes (Neda) | [stuff][12-3A] |  [sftuff][12-4A] | [Wrap-Up][12-5A]
+**10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3 (BV)  | Project 3 (BV)  | Wrap-Up (CF)
+**1:15pm <br> 2:45pm** | Express Auth with Passport (BV) |  Project 3 (CF)  | Project 3 (CF) | Project 3 Presentations (ALL) | go into the world
+**3:00pm <br> 4:30pm** | Project 3 (BV)  | Project 3 (CF)  | Project 3 (CF) | Project 3 Presentations (ALL) | code things
+**Evening** | Project 3  |  Project 3 |  [Project 3][12-3E] | Graduation | you are developers
 
 Friday 
 
@@ -49,6 +47,7 @@ Friday
 [12-5E]: # "..."
 
 [Weekly Checklist](#)
+
 
 #### Week 10 - Project 2!
 
