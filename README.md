@@ -1,5 +1,55 @@
 #WDI 31 Schedule
 
+#WDI 31 Schedule
+
+#### Week 12 - Project 3!
+
+Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [  ][12-1A] |  Outcomes (Neda) | [Trees - Breadth First Search (BV)][12-3A] |  [Trees - Depth First Search (BV)][12-4A] | [Debugging lab (CF)][12-5A]
+**10:45am <br> 12:15pm** | MEAN Review | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
+**1:15pm <br> 2:45pm** | Express Auth with Passport (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  React and Build Tools (ML)
+**3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | React Lab OR polish your portfolio site (ML)
+**Evening** | Project 2  |  Project 2 |  [Project 2][12-3E] | Rest! | Update portfolio and lightning talk prep
+
+Friday 
+
+- meetups  
+- what's next
+
+[12-1A]: # "..."
+[12-1B]: # "..."
+[12-1C]: # "..."
+[12-1D]: # "..."
+[12-1E]: # "..."
+
+
+[12-2A]: # "..."
+[12-2B]: # "..."
+[12-2C]: # "..."
+[12-2D]: # "..."
+[12-2E]: # "..."
+
+[12-3A]: # "..."
+[12-3B]: # "..."
+[12-3C]: # "..."
+[12-3D]: # "..."
+[12-3E]: # "..."
+
+[12-4A]: # "..."
+[12-4B]: # "..."
+[12-4C]: # "..."
+[12-4D]: # "..."
+[12-4E]: # "..."
+
+[12-5A]: # "..."
+[12-5B]: # "..."
+[12-5C]: # "..."
+[12-5D]: # "..."
+[12-5E]: # "..."
+
+[Weekly Checklist](#)
+
 #### Week 10 - Project 2!
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
