@@ -1,5 +1,49 @@
 #WDI 31 Schedule
 
+#### Week 11 - Project 3
+
+Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [ MEAN Review ][11-1A] |  Outcomes (Neda) | [Something][11-3A] |  [Something][11-4A] | [Something][11-5A]
+**10:45am <br> 12:15pm** | [MEAN Review][11-2A] | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
+**1:15pm <br> 2:45pm** | [Express Auth with Passport (BV)][] |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  React and Build Tools (ML)
+**3:00pm <br> 4:30pm** | (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | React Lab OR polish your portfolio site (ML)
+**Evening** | Project 2  |  Project 2 |  [Project 2][11-3E] | Rest! | Update portfolio and lightning talk prep
+
+[11-1A]: # "..."
+[11-1B]: # "..."
+[11-1C]: # "..."
+[11-1D]: # "..."
+[11-1E]: # "..."
+
+
+[11-2A]: # "..."
+[11-2B]: # "..."
+[11-2C]: # "..."
+[11-2D]: # "..."
+[11-2E]: # "..."
+
+[11-3A]: # "..."
+[11-3B]: # "..."
+[11-3C]: # "..."
+[11-3D]: # "..."
+[11-3E]: # "..."
+
+[11-4A]: # "..."
+[11-4B]: # "..."
+[11-4C]: # "..."
+[11-4D]: # "..."
+[11-4E]: # "..."
+
+[11-5A]: # "..."
+[11-5B]: # "..."
+[11-5C]: # "..."
+[11-5D]: # "..."
+[11-5E]: # "..."
+
+[Weekly Checklist](#)
+
+
 #### Week 10 - Project 2!
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
