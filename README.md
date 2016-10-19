@@ -23,7 +23,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [10-2D]: # "..."
 [10-2E]: # "..."
 
-[10-3A]: # "..."
+[10-3A]: https://github.com/sf-wdi-31/breadth-first-search "Tree Breadth-first Search"
 [10-3B]: # "..."
 [10-3C]: # "..."
 [10-3D]: # "..."
@@ -41,7 +41,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [10-5D]: # "..."
 [10-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/bgveenstra/37e86dbcd801ec9e9b8e155cc4b18528)
 
 #### Week 9 - Rails Projects
 
