@@ -23,7 +23,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [10-2D]: # "..."
 [10-2E]: # "..."
 
-[10-3A]: # "..."
+[10-3A]: https://github.com/sf-wdi-31/breadth-first-search "Tree Breadth-first Search"
 [10-3B]: # "..."
 [10-3C]: # "..."
 [10-3D]: # "..."
