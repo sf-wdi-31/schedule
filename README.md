@@ -4,7 +4,7 @@
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | [Graphs and Trees (CF) ][10-1A] |  Outcomes (Neda) | [Trees - Breadth First Search (BV)][10-3A] |  [Trees - Depth First Search (BV)][10-4A] | [Debugging lab (CF)][10-5A]
+**9:00am <br> 10:30am** | [Graphs and Trees (CF) ][10-1A] |  Outcomes (Neda) | [Trees - Breadth First Search (BV)][10-3A] |  [Graph Representations][10-4Z] & [Depth First Search][10-4A] (BV) | [Debugging lab (CF)][10-5A]
 **10:45am <br> 12:15pm** | Project 2 (CF) | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
 **1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  React and Build Tools (ML)
 **3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | React Lab OR polish your portfolio site (ML)
@@ -29,7 +29,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [10-3D]: # "..."
 [10-3E]: # "..."
 
-[10-4A]: # "..."
+[10-4Z]: https://github.com/sf-wdi-31/graph-representations "graphs representations"
+[10-4A]: https://github.com/sf-wdi-31/depth-first-search "depth-first search"
 [10-4B]: # "..."
 [10-4C]: # "..."
 [10-4D]: # "..."
