@@ -20,6 +20,7 @@ Project 2!
 
 ### Weekend
 
-1. Complete the [react on rails lab](https://github.com/sf-wdi-31/react-on-rails) OR
-1. Create or update your [portfolio](./portfolio.md), and make sure it's deployed publicly online!
+1. Pick one of the two following tasks
+  - Complete the [react on rails lab](https://github.com/sf-wdi-31/react-on-rails) OR
+  - Create or update your [portfolio](./portfolio.md), and make sure it's deployed publicly online!
 2. Prepare a [lightning talk](./lightning-talk.md) on a technology we haven't covered. (Think about a tool you might want to use in project 3!) Sign up for a topic in this [google doc](https://docs.google.com/document/d/1pgbCLVV46opLFRohWFD0bgP14XUbsiAUu8kIdBKNiZ8/edit?usp=sharing).

@@ -40,7 +40,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [10-5B]: # "..."
 [10-5C]: https://github.com/sf-wdi-31/react "..."
 [10-5D]: https://github.com/sf-wdi-31/react-on-rails "..."
-[10-5E]: # "..."
+[10-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-10-training.md#weekend  "..."
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/37e86dbcd801ec9e9b8e155cc4b18528)
 
