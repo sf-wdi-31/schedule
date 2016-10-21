@@ -36,7 +36,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [10-4D]: # "..."
 [10-4E]: # "..."
 
-[10-5A]: # "..."
+[10-5A]: https://github.com/sf-wdi-31/rails-debugging "..."
 [10-5B]: # "..."
 [10-5C]: # "..."
 [10-5D]: # "..."
