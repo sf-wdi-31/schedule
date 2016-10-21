@@ -6,8 +6,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 10:30am** | [Graphs and Trees (CF) ][10-1A] |  Outcomes (Neda) | [Trees - Breadth First Search (BV)][10-3A] |  [Graph Representations][10-4Z] & [Depth First Search][10-4A] (BV) | [Debugging lab (CF)][10-5A]
 **10:45am <br> 12:15pm** | Project 2 (CF) | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
-**1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  React and Build Tools (ML)
-**3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | React Lab OR polish your portfolio site (ML)
+**1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  [React and Build Tools][10-5C] (ML)
+**3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | [React Lab OR polish your portfolio site][10-5D] (ML)
 **Evening** | Project 2  |  Project 2 |  Project 2 | Rest! | Update portfolio and lightning talk prep
 
 [10-1A]: https://github.com/sf-wdi-31/trees "trees"
@@ -38,8 +38,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 
 [10-5A]: https://github.com/sf-wdi-31/rails-debugging "..."
 [10-5B]: # "..."
-[10-5C]: # "..."
-[10-5D]: # "..."
+[10-5C]: # "https://github.com/sf-wdi-31/react"
+[10-5D]: # "https://github.com/sf-wdi-31/react-on-rails"
 [10-5E]: # "..."
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/37e86dbcd801ec9e9b8e155cc4b18528)
