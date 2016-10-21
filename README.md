@@ -8,7 +8,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **10:45am <br> 12:15pm** | Project 2 (CF) | Project 2 (BV)  |  Project 2 (BV)  | Project 2 (BV)  | Debugging lab (CF)
 **1:15pm <br> 2:45pm** | Project 2 (BV) |  Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) |  [React and Build Tools][10-5C] (ML)
 **3:00pm <br> 4:30pm** | Project 2 (BV)  | Project 2 (CF)  | Project 2 (CF) | Project 2 Presentations (ALL) | [React Lab OR polish your portfolio site][10-5D] (ML)
-**Evening** | Project 2  |  Project 2 |  Project 2 | Rest! | Update portfolio and lightning talk prep
+**Evening** | Project 2  |  Project 2 |  Project 2 | Rest! | [Update portfolio and lightning talk prep][10-5E]
 
 [10-1A]: https://github.com/sf-wdi-31/trees "trees"
 [10-1B]: # "..."
