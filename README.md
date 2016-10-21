@@ -1,5 +1,48 @@
 #WDI 31 Schedule
 
+#### Week 11 - Project 3
+
+Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [ Lightning Talks (CF) ][11-1A] |  Outcomes (Neda) | [Project 3 Planning Meetings (ALL) ][11-3A] |  [Whiteboarding & Interview Prep][11-4A] | [Whiteboarding & Interview Prep][11-5A]
+**10:45am <br> 12:15pm** | [MEN Review (CF)][11-1B] | Whiteboarding & Interview Prep (CF)  |  Project 3  | Project 3  | Project 3
+**1:15pm <br> 2:45pm** | [MEAN Review (BV)][11-1C] |  Take Home Interview Prep (BV)  | Project 3 | Project 3 |  Project 3 
+**3:00pm <br> 4:30pm** | [Express Auth with Passport (BV)][11-1D]  | Take Home Interview Prep (BV)  | Project 3 | Project 3 | Project 3
+**Evening** | Read Rangular / React-Rails  |  Project 3 Prep |  Project 3 | Project 3 | Project 3
+
+[11-1A]: # "..."
+[11-1B]: # "..."
+[11-1C]: # "..."
+[11-1D]: # "..."
+[11-1E]: # "..."
+
+
+[11-2A]: # "..."
+[11-2B]: # "..."
+[11-2C]: # "..."
+[11-2D]: # "..."
+[11-2E]: # "..."
+
+[11-3A]: # "..."
+[11-3B]: # "..."
+[11-3C]: # "..."
+[11-3D]: # "..."
+[11-3E]: # "..."
+[11-4A]: # "..."
+[11-4B]: # "..."
+[11-4C]: # "..."
+[11-4D]: # "..."
+[11-4E]: # "..."
+
+[11-5A]: # "..."
+[11-5B]: # "..."
+[11-5C]: # "..."
+[11-5D]: # "..."
+[11-5E]: # "..."
+
+[Weekly Checklist](#)
+
+
 #### Week 10 - Project 2!
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
