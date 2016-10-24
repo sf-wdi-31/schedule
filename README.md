@@ -7,7 +7,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **9:00am <br> 10:30am** | [ Lightning Talks (CF) ][11-1A] |  Outcomes (Neda) | [Project 3 Planning Meetings (ALL) ][11-3A] |  [Whiteboarding & Interview Prep][11-4A] | [Whiteboarding & Interview Prep][11-5A]
 **10:45am <br> 12:15pm** | [MEN Review (CF)][11-1B] | Whiteboarding & Interview Prep (CF)  |  Project 3  | Project 3  | Project 3
 **1:15pm <br> 2:45pm** | [MEAN Review (BV)][11-1C] |  Take Home Interview Prep (BV)  | Project 3 | Project 3 |  Project 3 
-**3:00pm <br> 4:30pm** | [Express Auth with Passport (BV)][11-1D]  | Take Home Interview Prep (BV)  | Project 3 | Project 3 | Project 3
+**3:00pm <br> 4:30pm** | [Express Auth (BV)][11-1D]  | Take Home Interview Prep (BV)  | Project 3 | Project 3 | Project 3
 **Evening** | Read Rangular / React-Rails  |  Project 3 Prep |  Project 3 | Project 3 | Project 3
 
 [11-1A]: # "..."
