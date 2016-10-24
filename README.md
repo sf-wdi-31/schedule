@@ -12,8 +12,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 
 [11-1A]: # "..."
 [11-1B]: https://github.com/sf-wdi-31/MEN-review "MEN review"
-[11-1C]: # "..."
-[11-1D]: # "..."
+[11-1C]: https://github.com/sf-wdi-31/MEAN-review "..."
+[11-1D]: https://github.com/sf-wdi-31/express-simple-auth "..."
 [11-1E]: # "..."
 
 
