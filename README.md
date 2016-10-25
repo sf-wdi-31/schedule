@@ -40,7 +40,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [11-5D]: # "..."
 [11-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/cofauver/ec575bf0a330bdb153b087fa2f613d80)
 
 
 #### Week 10 - Project 2!
