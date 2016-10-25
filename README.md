@@ -10,10 +10,17 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **3:00pm <br> 4:30pm** | Project 3  | Project 3  | Project 3 | Project 3 Presentations  | code things
 **Evening** | Project 3  |  Project 3 |  Project 3 | Graduation | you are developers
 
+<!--
 Friday 
 
+- reflections
+- group project plans
 - meetups  
 - what's next
+- rose, bud, thorn
+- survey
+
+-->
 
 [12-1A]: # "..."
 [12-1B]: # "..."
