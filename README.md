@@ -8,13 +8,13 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **10:45am <br> 12:15pm** | [MEN Review (CF)][11-1B] | Whiteboarding & Interview Prep (CF)  |  Project 3  | Project 3  | Project 3
 **1:15pm <br> 2:45pm** | [MEAN Review (BV)][11-1C] |  Take Home Interview Prep (BV)  | Project 3 | Project 3 |  Project 3
 **3:00pm <br> 4:30pm** | [Express Auth (BV)][11-1D]  | Take Home Interview Prep (BV)  | Project 3 | Project 3 | Project 3
-**Evening** | Read Rangular / React-Rails  |  Project 3 Prep |  Project 3 | Project 3 | Project 3
+**Evening** | Read Rangular & Auth  |  Project 3 Prep |  Project 3 | Project 3 | Project 3
 
 [11-1A]: https://gist.github.com/cofauver/07303bfc7c85fe457b6003fcdc00c5a6 "Lightning talks, yo!"
 [11-1B]: https://github.com/sf-wdi-31/MEN-review "MEN review"
 [11-1C]: https://github.com/sf-wdi-31/MEAN-review "..."
 [11-1D]: https://github.com/sf-wdi-31/express-simple-auth "..."
-[11-1E]: # "..."
+[11-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-11-training.md#monday "..."
 
 
 [11-2A]: # "..."
