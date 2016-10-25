@@ -21,7 +21,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [11-2B]: https://github.com/sf-wdi-31/interview-prep "interview prep"
 [11-2C]: # "..."
 [11-2D]: # "..."
-[11-2E]: # "..."
+[11-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-11-training.md#tuesday "..."
 
 [11-3A]: # "..."
 [11-3B]: # "..."
