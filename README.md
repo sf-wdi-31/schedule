@@ -34,7 +34,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [11-4D]: # "..."
 [11-4E]: # "..."
 
-[11-5A]: # "..."
+[11-5A]: https://github.com/sf-wdi-31/interview-prep#fridays-challenges "Friday interview challenges"
 [11-5B]: # "..."
 [11-5C]: # "..."
 [11-5D]: # "..."
