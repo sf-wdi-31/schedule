@@ -5,7 +5,7 @@
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | Interview Prep: [ Whiteboarding ][12-1A] and/or [CSV Coding Challenge][12-1B] |  Outcomes (Neda) | [Interview Prep][12-3A] |  [Prep][12-4A] | [Wrap-Up][12-5A]
+**9:00am <br> 10:30am** | Interview Prep:<br> [ Whiteboarding ][12-1A] and/or [CSV Coding Challenge][12-1B] |  Outcomes (Neda) | [Interview Prep][12-3A] |  [Prep][12-4A] | [Wrap-Up][12-5A]
 **10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3  | Project 3   | Wrap-Up 
 **1:15pm <br> 2:45pm** | Project 3 |  Project 3  | Project 3 | Project 3 Presentations  | go into the world
 **3:00pm <br> 4:30pm** | Project 3  | Project 3  | Project 3 | Project 3 Presentations  | code things
