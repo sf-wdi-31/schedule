@@ -43,6 +43,62 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [Weekly Checklist](https://gist.github.com/cofauver/ec575bf0a330bdb153b087fa2f613d80)
 
 
+#### Week 12 - Project 3!
+
+Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | Interview Prep: [ Whiteboarding ][12-1A] and/or [CSV Coding Challenge][12-1B] |  Outcomes (Neda) | [Interview Prep][12-3A] |  [Prep][12-4A] | [Wrap-Up][12-5A]
+**10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3  | Project 3   | Wrap-Up 
+**1:15pm <br> 2:45pm** | Project 3 |  Project 3  | Project 3 | Project 3 Presentations  | go into the world
+**3:00pm <br> 4:30pm** | Project 3  | Project 3  | Project 3 | Project 3 Presentations  | code things
+**Evening** | Project 3  |  Project 3 |  Project 3 | Graduation | you are developers
+
+<!--
+Friday 
+
+- reflections
+- group project plans
+- meetups  
+- what's next
+- rose, bud, thorn
+- survey
+
+-->
+
+[12-1A]: https://github.com/sf-wdi-31/whiteboarding-miscellaneous "..."
+[12-1B]: https://github.com/sf-wdi-31/csv_challenge "..."
+[12-1C]: # "..."
+[12-1D]: # "..."
+[12-1E]: # "..."
+
+
+[12-2A]: # "..."
+[12-2B]: # "..."
+[12-2C]: # "..."
+[12-2D]: # "..."
+[12-2E]: # "..."
+
+[12-3A]: # "..."
+[12-3B]: # "..."
+[12-3C]: # "..."
+[12-3D]: # "..."
+[12-3E]: # "..."
+
+[12-4A]: # "..."
+[12-4B]: # "..."
+[12-4C]: # "..."
+[12-4D]: # "..."
+[12-4E]: # "..."
+
+[12-5A]: # "..."
+[12-5B]: # "..."
+[12-5C]: # "..."
+[12-5D]: # "..."
+[12-5E]: # "..."
+
+[Weekly Checklist](#)
+
+
 #### Week 10 - Project 2!
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
