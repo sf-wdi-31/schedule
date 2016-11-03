@@ -1,5 +1,5 @@
 
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 # WDI 31 Schedule
 
 
@@ -7,8 +7,8 @@
 
 Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | Interview Prep:<br> [ Whiteboarding ][12-1A] and/or [CSV Coding Challenge][12-1B] |  Outcomes (Neda) | [Interview Prep][12-3A] |  [Prep][12-4A] | [Wrap-Up][12-5A]
-**10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3  | Project 3   | Wrap-Up 
+**9:00am <br> 10:30am** | Interview Prep:<br> [ Whiteboarding ][12-1A] and/or [CSV Coding Challenge][12-1B] |  Outcomes (Neda) | [Interview Prep][12-3A] |  Project 3 | [Wrap-Up][12-5A]
+**10:45am <br> 12:15pm** | Project 3 | Project 3   |  Project 3  | Project 3   | Wrap-Up
 **1:15pm <br> 2:45pm** | Project 3 |  Project 3  | Project 3 | Project 3 Presentations  | go into the world
 **3:00pm <br> 4:30pm** | Project 3  | Project 3  | Project 3 | Project 3 Presentations  | code things
 **Evening** | Project 3  |  Project 3 |  Project 3 | Graduation | you are developers
@@ -26,7 +26,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [12-2D]: # "..."
 [12-2E]: # "..."
 
-[12-3A]: # "..."
+[12-3A]: https://github.com/sf-wdi-31/interview-prep#wednesdays-challenges "interview challenges"
 [12-3B]: # "..."
 [12-3C]: # "..."
 [12-3D]: # "..."
@@ -91,7 +91,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 
 [Weekly Checklist](https://gist.github.com/cofauver/ec575bf0a330bdb153b087fa2f613d80)
 
-Additional Resources: [Express Auth with Passport](https://github.com/sf-wdi-31/express-passport-local-authentication)  (from GA DC), [Angular/MEAN Auth with Satellizer](https://github.com/sf-wdi-31/angular-auth-satellizer) (from previous SF cohorts). 
+Additional Resources: [Express Auth with Passport](https://github.com/sf-wdi-31/express-passport-local-authentication)  (from GA DC), [Angular/MEAN Auth with Satellizer](https://github.com/sf-wdi-31/angular-auth-satellizer) (from previous SF cohorts).
 
 
 #### Week 10 - Project 2!
