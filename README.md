@@ -13,18 +13,6 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **3:00pm <br> 4:30pm** | Project 3  | Project 3  | Project 3 | Project 3 Presentations  | code things
 **Evening** | Project 3  |  Project 3 |  Project 3 | Graduation | you are developers
 
-<!--
-Friday 
-
-- reflections
-- group project plans
-- meetups  
-- what's next
-- rose, bud, thorn
-- survey
-
--->
-
 [12-1A]: https://github.com/sf-wdi-31/whiteboarding-miscellaneous "..."
 [12-1B]: https://github.com/sf-wdi-31/csv_challenge "..."
 [12-1C]: # "..."
@@ -56,7 +44,7 @@ Friday
 [12-5D]: # "..."
 [12-5E]: # "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://github.com/sf-wdi-31/learning-objectives-checklist)
 
 
 
