@@ -56,7 +56,7 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 **9:00am <br> 10:30am** | [ Lightning Talks (CF) ][11-1A] |  Outcomes (Neda) | [Project 3 Planning Meetings (ALL) ][11-3A] |  [Whiteboarding & Interview Prep (BV)][11-4A] | [Whiteboarding & Interview Prep (CF)][11-5A]
 **10:45am <br> 12:15pm** | [MEN Review (CF)][11-1B] | [Whiteboarding & Interview Prep (CF)][11-2B]  |  Project 3   | Project 3 (BV) | Project 3 (CF)
 **1:15pm <br> 2:45pm** | [MEAN Review (BV)][11-1C] |  [Take Home Interview Prep (BV)](https://github.com/sf-wdi-31/take-home-coding-challenge-workshop)  | Project 3 | Project 3 (CF) |  Project 3 (BV)
-**3:00pm <br> 4:30pm** | [Express Auth (BV)][11-1D]  | Take Home Interview Prep (BV)  | Project 3 | Project 3 (CF) | Project 3 (BV)
+**3:00pm <br> 4:30pm** | [Express Simple Auth (BV)][11-1D]  | Take Home Interview Prep (BV)  | Project 3 | Project 3 (CF) | Project 3 (BV)
 **Evening** | [Read Rangular & Auth][11-1E]  |  [Project 3 Prep][11-2E] |  Project 3 | Project 3 | Project 3
 
 [11-1A]: https://gist.github.com/cofauver/07303bfc7c85fe457b6003fcdc00c5a6 "Lightning talks, yo!"
@@ -90,6 +90,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [11-5E]: # "..."
 
 [Weekly Checklist](https://gist.github.com/cofauver/ec575bf0a330bdb153b087fa2f613d80)
+
+Additional Resources: [Express Auth with Passport](https://github.com/sf-wdi-31/express-passport-local-authentication)  (from GA DC), [Angular/MEAN Auth with Satellizer](https://github.com/sf-wdi-31/angular-auth-satellizer) (from previous SF cohorts). 
 
 
 #### Week 10 - Project 2!
@@ -227,6 +229,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 
 [Pwr-Hr: Auth Review (ML)](https://github.com/sf-wdi-31/pwr-hr-auth)
 
+Additional Resources: [Hiding Secret Keys](https://github.com/sf-wdi-31/how-to-hide-secrets)
+
 
 
 #### Week 7 - Ruby & Rails
@@ -273,6 +277,8 @@ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 [Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
 
 [PWR-HR Flexbox (ML)](https://github.com/sf-wdi-31/ph-flexbox)
+
+Additional Resources: [Rspec "Racer" for Practice](https://github.com/sf-wdi-31/rspec-racer)
 
 
 #### Week 6 - Getting Acute with Angular
